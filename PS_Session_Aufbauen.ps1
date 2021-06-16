@@ -9,7 +9,7 @@ Invoke-Command -Session $s -Scriptblock {
 
 
 
-    Get-VM -ComputerName $hosts | select name, state 
+    Get-VM -ComputerName $hosts | Select-Object name, state 
     
 
 
