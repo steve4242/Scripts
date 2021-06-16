@@ -1,0 +1,1 @@
+Get-Mailbox -ResultSize Unlimited | Where-Object {$_.emailaddresses -like "*umlauft.at*"}
