@@ -1,0 +1,2 @@
+﻿$NewTaskCreds = Get-Credential
+Get-ScheduledTask | Where-Object { $_.Principal.UserId -eq $NewTaskCreds.UserName } | Set-ScheduledTask -User $NewTaskCreds.UserName -Password $NewTaskCreds.GetNetworkCredentials().Password

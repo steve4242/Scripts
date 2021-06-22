@@ -1,1 +1,0 @@
-(Get-ADComputer -Filter {(OperatingSystem -like "*windows*server*") -and (Enabled -eq "True") -and (Name -like"*fp*")}).Name

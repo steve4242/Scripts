@@ -1,0 +1,1 @@
+﻿New-SelfSignedCertificate -DnsName s.biedermann@salesianer.com -CertStoreLocation Cert:\CurrentUser\My\ -Type Codesigning
