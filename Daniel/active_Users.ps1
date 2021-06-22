@@ -1,0 +1,1 @@
+get-aduser -Searchbase "OU=Buero,OU=Benutzer,OU=ORAD,OU=RO,DC=sal,DC=co,DC=at" -Filter * | where {$_.enabled} | export-csv -NoTypeInformation C:\Temp\aktive_User_ORAD.csv

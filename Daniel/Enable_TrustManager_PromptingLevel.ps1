@@ -1,0 +1,5 @@
+﻿Set-Itemproperty -path 'HKLM:\SOFTWARE\MICROSOFT\.NETFramework\Security\TrustManager\PromptingLevel' -Name 'Internet' -value 'Enabled'
+Set-Itemproperty -path 'HKLM:\SOFTWARE\MICROSOFT\.NETFramework\Security\TrustManager\PromptingLevel' -Name 'LocalIntranet' -value 'Enabled'
+Set-Itemproperty -path 'HKLM:\SOFTWARE\MICROSOFT\.NETFramework\Security\TrustManager\PromptingLevel' -Name 'MyComputer' -value 'Enabled'
+Set-Itemproperty -path 'HKLM:\SOFTWARE\MICROSOFT\.NETFramework\Security\TrustManager\PromptingLevel' -Name 'TrustedSites' -value 'Enabled'
+Set-Itemproperty -path 'HKLM:\SOFTWARE\MICROSOFT\.NETFramework\Security\TrustManager\PromptingLevel' -Name 'UntrustedSites' -value 'Disabled'

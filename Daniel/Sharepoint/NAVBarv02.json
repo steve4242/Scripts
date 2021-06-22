@@ -1,0 +1,189 @@
+{
+  "$schema": "schema.json",
+  "actions": [
+   
+   
+   {
+	  "verb": "addNavLink",
+	  "url": "https://salesianer0.sharepoint.com",
+	  "displayName": "IT",
+	  
+	},
+	
+	{
+	  "verb": "addNavLink",
+	  "url": "https://salesianer0.sharepoint.com",
+	  "displayName": "IT Intern",
+	  "parentDisplayName": "IT"
+	},
+
+	
+	{
+	  "verb": "addNavLink",
+	  "url": "https://salesianer0.sharepoint.com/sites/IT/Organisation/Forms/AllItems.aspx",
+	  "displayName": "IT - Gesamt",
+	  "parentDisplayName": "IT Intern"
+	},
+	
+		{
+	  "verb": "addNavLink",
+	  "url": "https://salesianer0.sharepoint.com/sites/IT.Infrastruktur/SitePages/Home.aspx",
+	  "displayName": "IT - IS",
+	  "parentDisplayName": "IT Intern"
+	},
+	
+	{
+	  "verb": "addNavLink",
+	  "url": "https://salesianer0.sharepoint.com/sites/ITApplication",
+	  "displayName": "IT - APP",
+	  "parentDisplayName": "IT Intern"
+	},
+	
+	{
+	  "verb": "addNavLink",
+	  "url": "https://salesianer0.sharepoint.com/sites/ITServiceManagement",
+	  "displayName": "IT - SM",
+	  "parentDisplayName": "IT Intern"
+	},
+	
+	{
+	  "verb": "addNavLink",
+	  "url": "https://salesianer0.sharepoint.com/sites/Projekte",
+	  "displayName": "IT - Projects",
+	  "parentDisplayName": "IT Intern"
+	},
+	
+	{
+	  "verb": "addNavLink",
+	  "url": "https://salesianer0.sharepoint.com",
+	  "displayName": "IT Extern",
+	  "parentDisplayName": "IT"
+	},
+	
+	{
+	  "verb": "addNavLink",
+	  "url": "https://salesianer0.sharepoint.com/sites/ERP2Connect",
+	  "displayName": "ERP2Connect",
+	  "parentDisplayName": "IT Extern"
+	},
+
+{
+	  "verb": "addNavLink",
+	  "url": "https://salesianer0.sharepoint.com/sites/APP-Partner",
+	  "displayName": "App-Partner",
+	  "parentDisplayName": "IT Extern"
+	},
+	
+{
+	  "verb": "addNavLink",
+	  "url": "https://salesianer0.sharepoint.com/sites/CountIT",
+	  "displayName": "Count IT",
+	  "parentDisplayName": "App-Partner"
+	},
+
+	{
+	  "verb": "addNavLink",
+	  "url": "https://salesianer0.sharepoint.com/sites/SAP",
+	  "displayName": "SAP",
+	  "parentDisplayName": "IT Extern"
+	},
+	
+	
+	{
+	  "verb": "addNavLink",
+	  "url": "https://salesianer0.sharepoint.com",
+	  "displayName": "Technik",
+	  
+	},
+	{
+	  "verb": "addNavLink",
+	  "url": "https://salesianer0.sharepoint.com",
+	  "displayName": "Technik Intern",
+	  "parentDisplayName": "Technik"
+	},
+	
+	{
+	  "verb": "addNavLink",
+	  "url": "https://salesianer0.sharepoint.com",
+	  "displayName": "Technik Extern",
+	  "parentDisplayName": "Technik"
+	},
+	
+	
+	
+   {
+	  "verb": "addNavLink",
+	  "url": "https://salesianer0.sharepoint.com",
+	  "displayName": "Academy",
+	  
+	},
+	
+	{
+	  "verb": "addNavLink",
+	  "url": "https://salesianer0.sharepoint.com",
+	  "displayName": "Academy Intern",
+	  "parentDisplayName": "Academy"
+	},
+	{
+	  "verb": "addNavLink",
+	  "url": "https://salesianer0.sharepoint.com",
+	  "displayName": "Academy Extern",
+	  "parentDisplayName": "Academy"
+	},
+	
+		{
+	  "verb": "addNavLink",
+	  "url": "https://salesianer0.sharepoint.com",
+	  "displayName": "PMO",
+	  
+	},
+	{
+	  "verb": "addNavLink",
+	  "url": "https://salesianer0.sharepoint.com",
+	  "displayName": "PMO Intern",
+	  "parentDisplayName": "PMO"
+	},
+	
+	{
+	  "verb": "addNavLink",
+	  "url": "https://salesianer0.sharepoint.com",
+	  "displayName": "PMO Extern",
+	  "parentDisplayName": "PMO"
+	},
+	
+	{
+  "verb": "removeNavLink",
+  "displayName": "Home",
+  "isWebRelative": true
+},
+	{
+  "verb": "removeNavLink",
+  "displayName": "Documents",
+  "isWebRelative": true
+},
+
+	{
+  "verb": "removeNavLink",
+  "displayName": "Documents",
+  "isWebRelative": true
+},
+
+{
+  "verb": "removeNavLink",
+  "displayName": "Site Contents",
+  "isWebRelative": true
+},
+
+{
+  "verb": "removeNavLink",
+  "displayName": "Seiten",
+  "isWebRelative": true
+}
+		
+	
+  ],
+  "bindata": { },
+  "version": 1
+}
+
+

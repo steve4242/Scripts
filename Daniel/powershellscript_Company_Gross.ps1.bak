@@ -1,0 +1,126 @@
+Param (
+)
+<#
+.SYNOPSIS
+    Short Description
+.DESCRIPTION
+    <Brief description of script>
+.PARAMETER csvFile
+    The File which should be imported
+.INPUTS
+  csvFile
+.OUTPUTS
+  LogFile
+.NOTES
+  Version:        1.0
+  Author:         Spiesberger Robert | Base-IT
+  Creation Date:  20.05.2019
+  Purpose/Change: Initial script development
+  
+.EXAMPLE
+
+#>
+#----------------[ Declarations ]------------------------------------------------------
+#CSVfile and Logfile can be set static here
+$Logfile = "@PSScriptRoot\logfile.log"
+$templateFolder = 'Template'
+$accountnames = @("*@sal.co.at", "*@salesianer.com")
+$signatureName = "offiziell"
+$signatureFolder = "$env:APPDATA\Microsoft\Signatures"
+#----------------[ Requirements ]------------------------------------------------------
+#Import-Module ActiveDirectory
+
+#----------------[ Functions ]---------------------------------------------------------
+
+function write-Log {
+    Param ([string]$logtext)
+    Write-Host $logtext
+    $timestamp = Get-Date -UFormat "%d.%m.%y - %H:%M:%S"
+    Write-Output "$timestamp;$logtext" | Out-File -Append -FilePath $logfile
+} #endFunction write-log
+
+function write-signature {
+    param ([psobject]$person)
+    Write-Host "Write the Template now!"
+    #$person | Out-File person.txt
+    $files = @("*.htm")#, "*.rtf", "*.txt")
+    $mobilePhone = '<SPAN lang="DE-AT" style="color: black; mso-ansi-language: DE-AT;">'+$($person.mobile)+'<o:p></o:p></SPAN></SPAN></P><P class="MsoNormal"><SPAN style="mso-bookmark: _MailOriginal;"></SPAN>'
+
+    foreach ($file in $files) {
+        $content = Get-Content -Path (Get-ChildItem -Path "$templateFolder\$file" | Select-Object -first 1).FullName
+        $homepage = $person.wwwhomepage -replace ( "www.", "")
+        #$content = $content -replace ( "{greetings}", $($person.extensionattribute5))
+        #$content = $content -replace ( "{greetings2}", $($person.extensionattribute6))
+        $content = $content -replace ( "{title}", $($person.title))
+        $content = $content -replace ( "{givenName}", $($person.givenname))
+        $content = $content -replace ( "{surname}", ((Get-Culture).TextInfo).ToTitleCase($($person.sn).tolower()))
+        if ($person.personaltitle) { $content = $content -replace ( "{personaltitle}", ", $($person.personaltitle)") }else { $content = $content -replace ( "{personaltitle}", "") }
+        $content = $content -replace ( "{jobTitle}", $($person.description))
+        if ($person.mobile) {$content = $content -replace ( "{mobilePhone}", $mobilePhone)} else {$content = $content -replace ("{mobilePhone}", "")}
+        if ($person.extensionattribute6 -like "JA") { $content = $content -replace ("{jobTitleEN}", "<br>$($person.extensionattribute5)") }else { $content = $content -replace ("{jobTitleEN}", "") }
+        $content = $content -replace ( "{email}", $($person.mail))
+        $content = $content -replace ( "{company}", ((Get-Culture).TextInfo).ToTitleCase($($person.company).toupper()))
+        $content = $content -replace ( "{postalCode}", $($person.postalcode))
+        $content = $content -replace ( "{city}", $($person.l))
+        $content = $content -replace ( "{street}", $($person.streetaddress))
+        $content = $content -replace ( "{telephone}", $($person.telephonenumber))
+        $content = $content -replace ( "{homepage}", $homepage)
+        $content = $content -replace ("{footline}", $($person.extensionattribute7))
+        #if (!(Test-Path "Signature"))
+        #{
+        #	New-Item "Signature" -ItemType Directory
+        #}
+        #else
+        #{
+        #		Get-ChildItem "Signature" | Remove-Item -Force -Recurse
+        #}
+        $content | Out-File "$signatureFolder\$signatureName$($file.replace('*',''))"
+    }
+    Get-ChildItem -Directory $templateFolder | foreach { copy-Item -Path $_.FullName -destination $signatureFolder -Recurse -Force }
+} #endFunction write-signature
+
+function get-person {
+    param ([string]$userName)
+    $searcher = [adsisearcher]"samaccountname=$userName"
+    $searcher.PropertiesToLoad.AddRange(('title', 'givenname', 'sn', 'mail', 'telephoneNumber', 'mobile', 'company', 'personalTitle', 'postalcode', 'l', 'streetaddress', 'extensionAttribute5', 'extensionAttribute6', 'extensionAttribute7', 'extensionAttribute8', 'description', 'wwwHomePage'))
+    $curUser = $searcher.FindOne()
+    return $curUser.Properties
+}
+
+function write-regKeys {
+    $officeVersions = Get-ChildItem HKCU:\Software\Microsoft\Office | ? name -Like "*.*"
+    foreach ($officeVer in $officeVersions) {
+        #Write-Host "Office Version found. $officeVer"
+        $outlookFolders = Get-ChildItem $officeVer.pSpath | ? name -Like "*\Outlook"
+        foreach ($outlookFolder in $outlookFolders) {		
+            if (Test-Path("$($outlookFolder.PsPath)\Profiles")) {
+                $profileFolders = Get-ChildItem -Path "$($outlookFolder.PsPath)\Profiles"
+                if ($profileFolders.count -ge 1) {
+                    Write-host "Found Profiles"
+                    foreach ($profileFolder in $profileFolders) {
+                        if (Test-Path("$($profileFolder.PsPath)\9375CFF0413111d3B88A00104B2A6676")) {
+                            $sigFolders = Get-ChildItem -Path "$($profileFolder.PsPath)\9375CFF0413111d3B88A00104B2A6676"
+                            foreach ($sigFolder in $sigFolders) {
+                                Write-Host "Sig Folder: $($sigFolder.Name)"
+                                $values = Get-ItemProperty $($sigFolder.PsPath)
+                                foreach ($accountname in $accountnames) {
+                                    Write-Host "AccName: $accountname"
+                                    if ($values.'Account Name' -like $accountname) {
+                                        Set-ItemProperty -path $sigFolder.PsPath -Name "New Signature" -Value $signatureName
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+
+        }
+    }
+}
+
+#----------------[ Main Execution ]----------------------------------------------------
+
+$person = get-person -userName $env:USERNAME
+write-signature $person
+write-regKeys

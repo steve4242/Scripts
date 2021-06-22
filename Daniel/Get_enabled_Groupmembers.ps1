@@ -1,0 +1,1 @@
+Get-ADGroup -Identity GG_Azure_MFA -Properties members | Select-Object -ExpandProperty members | Get-ADUser -Properties DisplayName | Where-Object -Property enabled | select DisplayName | ft -AutoSize

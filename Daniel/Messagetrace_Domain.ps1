@@ -1,0 +1,1 @@
+Get-MessageTrace -StartDate "01-07-2020" -EndDate "01-14-2020" | where{$_.recipientaddress -like "*@wozabal.com"}

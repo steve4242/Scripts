@@ -1,0 +1,1 @@
+get-aduser -filter * -Properties Telephonenumber,Mobile | Select-Object Name, Telephonenumber, Mobile | Export-Csv -path "C:\EXMigLog\TelNr.csv"

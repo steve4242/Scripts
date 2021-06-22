@@ -1,0 +1,27 @@
+{
+  "$schema": "schema.json",
+  "actions": [
+   
+	
+	{
+	  "verb": "setSiteLogo",
+	  "url": "https://salesianer0.sharepoint.com/:i:/r/sites/Testseite/Shared%20Documents/BlueLogo.png?csf=1&web=1&e=rHjhoX"
+	},
+	
+		{
+	  "verb": "applyTheme",
+	  "themeName": "Salesianer Colored Blue Theme"
+	},
+	{
+	  "verb": "setSiteBranding",
+	  "navigationLayout": "Megamenu",
+	  "headerLayout": "Compact",
+	  "headerBackground": "Strong",
+	  "showFooter": true
+	}
+	
+	
+  ],
+  "bindata": { },
+  "version": 1
+}

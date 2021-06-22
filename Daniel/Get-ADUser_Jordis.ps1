@@ -1,0 +1,7 @@
+get-aduser -Searchbase "OU=AT,DC=sal,DC=co,DC=at" -Filter * -properties title, givenname, sn, personalTitle, description, extensionattribute5, extensionattribute6, mobile, mail, company, postalcode, l, streetaddress, telephonenumber, pager, wwwhomepage, initials, department, physicalDeliveryOfficeName, extensionattribute7, c, st, userprincipalname |
+Where-Object { $_.Enabled -like "true" } |
+select-object title, givenname, sn, personalTitle, description, extensionattribute5, extensionattribute6, mobile, mail, company, postalcode, l, streetaddress, telephonenumber, pager, wwwhomepage, initials, department, physicalDeliveryOfficeName, extensionattribute7, c, st, userprincipalname | Export-Csv -NoTypeInformation -Encoding UTF8 -Path \\smwfile1\profile\schoda\Export_AT_AD_Users.csv
+
+get-aduser -Searchbase "OU=AT,DC=sal,DC=co,DC=at" -Filter * -properties title, givenname, sn, personalTitle, description, extensionattribute5, extensionattribute6, mobile, mail, company, postalcode, l, streetaddress, telephonenumber, pager, wwwhomepage, initials, department, physicalDeliveryOfficeName, extensionattribute7, c, st, userprincipalname |
+Where-Object { $_.Enabled -like "true" } |
+select-object description, extensionattribute5, extensionattribute6, mobile, mail, telephonenumber, pager, wwwhomepage, initials, department, userprincipalname | Export-Csv -NoTypeInformation -Encoding UTF8 -Path \\smwfile1\profile\schoda\Export_AT_AD_Users.csv

@@ -1,0 +1,1 @@
+.\Get_AD_Users_Logon_History.ps1 -MaxEvent 100000 -LastLogonOnly | Export-Csv -Path "C:\Users\schoda\Documents\Test.csv"

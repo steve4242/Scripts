@@ -1,0 +1,2307 @@
+#TYPE Selected.Microsoft.ActiveDirectory.Management.ADUser
+"Name","Telephonenumber","Mobile"
+"Exchange Online-ApplicationAccount",,
+"SystemMailbox{bb558c35-97f1-4cb9-8ff7-d53741dc928c}",,
+"ExImp",,
+"Administrator",,
+"krbtgt",,
+"WOZABAL$",,
+"Guest",,
+"URSENBACH Manuel","+43 660 139 12 84",
+"Test USER",,
+"SAL Support",,
+"tsatemp01",,
+"CORES",,
+"SMHR Zeit Admin","+385-1-2450-621",
+"DEUTSCH Maximilian","+43 1 98 132 1507","+43 664 886 48 737"
+"PLISCHEK Gerhard","+43 1 98132 1439","0660 129 78 38"
+"PAJVOT Kristina",,
+"POESELT Harald","+43 1 98132 1478","+43664 826 22 28"
+"LANDESK User",,
+"admin jira",,
+"SCHOBER Daniel","+43 1 98 132 1494","+43664 814 22 10"
+"SCHURNIK Edmund","0043 (316) 282 002 8861","+43664 887 245 07"
+"ADMIN Temp",,
+"SMRO Job Expedit 2",,
+"HUBER Daniel","+43 1 98132 1517","+43 664 88713770"
+"KISS Oliver","0036 1 463 7101","0036 20493 7589"
+"CERNY Roman","00420 315 724 221 26","00420 602 218 891"
+"Admin BASE-IT",,
+"SMRO Gast Expedit 1",,
+"ULRICH Ulrike","+43 1 981 32 1464",
+"IT ?berleitungen",,
+"PILJIC Matijas","+43 1 98132 1475","+436648142215"
+"OSMANI Berikan","+43 1 98 132 1484","+43 664 884 56 671"
+"SMRO Job Expedit 3",,
+"PLATTNER Michael","+43 1 98132 1487","+43664 834 37 87"
+"CIBOCI Danijel","+38598541378","+38598541378"
+"KRONBERGER Martin","+43 1 98132 1496","+43 664  618 84 38"
+"SAL SAL",,
+"SCHWARZ Viktor","00420 315 724 221","00420 721 979 856"
+"SMRO Job Expedit 4",,
+"Base-IT (Domain Admin)",,
+"SMID Melita","+386 1 589 31 14",
+"HAN?K Michal","+420 261 710 111 50","00420 725 807 279"
+"KOLIC Bernarda","+385-1-2450-621","00385 912415309"
+"SLADOJEVIC Nedeljko","+43 (0) 2622 25551 2765","0664 884 705 74"
+"SRB User",,
+"SONNBERGER Bettina","0043 7224 65990 4009","+43664 886 487 11"
+"SZABOOVA Diana",,"00421 902 434 557"
+"CATER Katja",,
+"KLOPCIC Metka","00386 1 589 31 37","00386 51 302 026"
+"SCHWARZ Eva-Maria","+43 463 31723 373",
+"MESZAROSOVA Zuzana",,
+"STOJILJKOVIC Ivan","+43 1 98 132 1502","+43 664 3361756"
+"svc-ldms",,
+"UZUNOVIC Mirjana","+385-1-2450-621","00385 912 415 330"
+"businessline",,
+"JORDIS Wolfgang","+ 43 1 73232 2289","+43664 887 245 53"
+"ALTENBERGER Anna","0043 6246 73985 5011","0664 884 70 556"
+"Marc Pennings",,
+"translation",,
+"ABS ROM",,
+"WOLF J?rg","+43 1 98 132 1447","0043 664 4421089"
+"GREGORIKOVA Jaroslava",,
+"SOMMEREGGER Sebastian","0043 1 98132 1480","+43664 834 37 95"
+"ERMAN Spela","+386 1 589 31 14","+386 31 357 883"
+"Norbert Hinrichs",,
+"Pc for Wimmer",,
+"tsystems-salabsdc1",,
+"User f?r Pool Notebooks",,
+"MARIENCIKOVA Miroslava","00421 268 255 339","00421 948 386 114"
+"KARLINGER Doris","+43 7223 81881 340",
+"Joris Minnaar",,
+"TRIVYZAS Nikolaos","+43 660 139 1806",
+"Mr Robot",,
+"LEOPOLDSEDER Stefan","+43 664 8849 3813",
+"PREMM Elias","+43 1 98 132 1481","+43 664 826 21 92"
+"KROPF Maria","0043 1 98132 1450",
+"Bak",,
+"DEUTSCH Maximilian (Domain Admin)",,
+"OSMANI Berikan (Domain Admin)",,
+"PREMM Elias (Domain Admin)",,
+"POESELT Harald (Domain Admin)",,
+"ANGERER Reinhard (Domain Admin)",,
+"KRONBERGER Martin (Domain Admin)",,
+"WALLAS Alexander (Domain Admin)",,
+"LEOPOLDSEDER Stefan (Domain Admin)",,
+"THALLER Stefan (Domain Admin)",,
+"PLATTNER Michael (Domain Admin)",,
+"REINHART Alexander (Domain Admin)",,
+"ARON Martin","0043 1 98132 1483","+43664 8142225"
+"SCHURNIK Edmund (Domain Admin)",,
+"SCHOBER Daniel (Domain Admin)",,"06648142210"
+"KISS Oliver (Domain Admin)",,
+"RAITH Stefan (Domain Admin)",,
+"Wozabal IT",,
+"AUER Andreas (Domain Admin)",,
+"SCHWARZ Viktor (Domain Admin)",,
+"J?GER Lorenz (Domain Admin)",,
+"SystemMailbox{1f05a927-9f6a-4af1-b26a-4bb7991b216f}",,
+"DPW Admin",,
+"Join",,
+"DANCSECS Karl","+43 1 981 32 1426","+43 664 423 77 28"
+"PINKL Verena","0043 1 98132 1484",
+"EDER Marion",,"0043 66488456666"
+"PLAIKNER Harald","005262 611301","0043664 88456670"
+"F?RST Thomas","+ 43 316 282002 8858","0043 664 5457320"
+"FILIPIC Hermann","0043 316 282002 8843","+43 664 826 21 82"
+"BARABAS Ingrid","0043 316 282002 8846",
+"STIEBER Christian","+ 43 316 282002 8886","+43664 887 245 21"
+"JERAJ Sabrina","0043 316 282002 41",
+"SUPPAN Sandra","+ 43 316 282002 8847",
+"NEUBAUER Margareta","0043 316 282002 8815",
+"SUNDL Josef","+ 43 316 282002 8852","+43664 887 245 15"
+"SCHRANZ Christian","0043 316 282002 8824","+43 664 814 22 14"
+"STEINER Anita","0043 316 282002 8818","+43 664 618 84 85"
+"GRUBER Ines","0043 316 282002 8842",
+"ZAHRADNICZEK Wolfgang","+ 43 316 282002 8845","0043664 8142239"
+"KRILL Sybille","+ 43 316 282002 8819","+43664 887 245 09"
+"SCHLOSSNAGEL Regina","+ 43 316 282002 8827","+43664 887 245 10"
+"TEICHT Ilse","0043 316 282002 21",
+"MUELLNER Alexandra","+43 732 32 2221","+43664 887 245 41"
+"KAPOSVAR Korhaz","+36-(1)-4637 -100",
+"KAUTSCHITZ Gerlinde","+ 43 316 282002 8822","+43664 884 566 93"
+"PFEIFFENBERGER Gerlinde",,"+43664 88456693"
+"WIMMLER Anita","+ 43 316 282002 8823","+43664 884 566 94"
+"TINNACHER Silvia","0043 316 282002 8821",
+"B?R Angelina","0043 6583 8505 11","0043 664 8142211"
+"BURGER Tanja","+43 4255 20201 9512","0043 664 6188400"
+"DESALLA Sandra","+43(6583) 8505 11","0664 88456659"
+"EGGER Bettina","0043 5262 611301","0043 664 6188452"
+"EICHLETER Nicole","+43 4255 20201 5920",
+"FRANK Hannes",,
+"FRANK Melitta","+43 4255 20201 5918","0043 664 6188465"
+"GRIESSER Birgit","+43 4255 20201 9533",
+"HOLZINGER Roman","0043 2742 881813 3142",
+"IVANEK Ivana","+43(1)98132 1415",
+"J?CKEL Anja",,
+"JOST Stefanie","+43 4255 20201 9517",
+"JUEN Gabriele","0043 5262 611301","0043 664 5252109"
+"KENDLER Cornelia","0043 6583 8505 19","0043 664 814 22 07"
+"K?CHEL Margarethe","0043 4255 20201 5911","0043 664 6188464"
+"LECHNER Helmut","0043 2742 881813 3140","0043 664 6188440"
+"LEITNER Maria","0043 4255 20201 9520","0043664 618 84 66"
+"LORENZ Marisa","0043 2742 881813 3112",
+"METAOUA Sybille","0043 6583 8505 16",
+"MOSER Sandra",,
+"NOWAK Birgit","0043 4255 20201 9519","0043 664 6188466"
+"OMANN Kerstin","0043 4255 20201 5912","0043 664 618 84 00"
+"REICHL Erich","0043 2742 881813 3131",
+"REICHL Sandra","0043 6583 8505 19",
+"SCHN?TZINGER Richard",":+43 (0)2742 881 813 - 3142","+43 664 525 01 97"
+"SPARI Martina","0043 5262 611301",
+"STEINLEITNER Tina","0043 7224 65990",
+"STHUL Christina",,
+"Test Person",,
+"TRIMMEL Ernestine","0043 2626 62906 7219","0043 664 6188435"
+"TSCHINDERLE Stefanie","0043 4255 20201 9517",
+"WEISSEISEN Christian","0043 2742 881813 3145",
+"VitalComp","+36 (01) 4637101","+36 20/493 7589"
+"DHCP",,
+"COLAKOVIC Nenad","+431 732 32 2227","+43664 887 245 43"
+"FederatedEmail.4c1f4d8b-8179-4148-93bf-00a95fa1e042",,
+"tempadac",,
+"SystemMailbox{e0dc1c29-89c3-4034-b678-e6c29d823ed9}",,
+"DiscoverySearchMailbox {D919BA05-46A6-415f-80AD-7E09334BB852}",,
+"HealthMailbox7354d28cf6c64d0db0c6ba5fd43f4afb",,
+"HealthMailboxe8e5179ee42946e6a495354de06e8bcf",,
+"HealthMailbox7ee0f8f9a5db40c7a72097bf20b583f2",,
+"HealthMailboxb6a6ab2c0b3247e285247da16adec682",,
+"HealthMailbox36e8cd6bee5f4c7fac70cd1c0224dfca",,
+"HealthMailbox36cff5b324d64945bdf9639883811356",,
+"HealthMailbox1e1179a4909d4161b5e70d597e9798ef",,
+"HealthMailboxc7b12ef5ca2c4eb08a645bb64dcb2962",,
+"HealthMailboxb6b2ba9061264d609662468b4a7ebb17",,
+"HealthMailboxe15fdbac6763458f876f7e04850411b0",,
+"HealthMailbox5796e40a1a2648b4aff89f1ba21ae7b5",,
+"TestMX",,
+"HealthMailboxddd56d91d1794f2aa4ceab396e469ff9",,
+"salkal1",,
+"LEHENAUER Brigitte","0043 6246 73 98 5012","+43 664 887 245 63"
+"WILDER Jennifer","+43 (1) 732 32 2237",
+"EICHBERGER Simon","+43 (0) 2742 881 813 3145","+43 664 884 566 73"
+"PREDIC Vesna","0043 1 98132 1406",
+"JEDLICKA Franz","+43 1 98132 1421","+43 664 5248309"
+"M?LLER Michaela","0043 2742 883308 3010","0664 884 705 84"
+"MARKL Alexandra","0043 1 73232 2228","+43664 887 245 44"
+"NELSON Sandra","0043 1 98132 1497","0043 664 884 566 90"
+"BREYER Karl","0043 1 73232 2239","+43664 887 245 49"
+"LAMATSCH Beate","0043 7224 65990 4011",
+"EBNER Yvonne","+43(0) 5238 87000 6413",
+"FREY Ines","0043 1 73232 2252",
+"CUCUI Simona","+43 1 732 32 2240",
+"MICHLOVSKY Ursula","+43 1 732 32 2271",
+"KUPRESAK Suzana","0043 2626 62906 7211","+43 664 6188468"
+"AMBICHL Martina","+43 (0) 2742 881 813 3112",
+"SVOBODA Kurt","0043 1 98132 1418",
+"GASEMI Armin","0043 1 98132 1489","0664 826 21 76"
+"HOLLER Monika","0043 1 73232 2257",
+"AUER Sabine","0043 7224 65990 4013",
+"GRUBER Franz Xaver","+43 2742 881 813 3142","+43 664 884 566 75"
+"Schichtleitung SA22",,
+"G?TZINGER Rudolf","0043 173232 2234","0043664 814 22 17"
+"HOFER Norbert","+43(6246)-73 985 5014","0043 664 618 8433"
+"RABENLEHNER-BULGURCU Sabine","0043 2742 883308 3013","+43664 884 705"
+"KURT Meryem","+43 (1) 98 132 1469","0664 826 21 36"
+"M?NZBERG Mathias","0043 2742 883 308 3016","0043 664 884 566 59"
+"CEMEK Teslime","0043 1 73232 2255","+43664 88 72 456 0"
+"HOFER Hildegard","+ 43 6246 73985 5020","0043 664 884 705 61"
+"HAJEK Angela","0043 1 73232 2214","+43664 826 21 47"
+"OTHILINGER Dietmar","0043 2742 883308 3020","0043 664 3949628"
+"LORENZ Thomas","0043 1 98132 1419","+43 664 6188415"
+"WURM Julia","+43 2742 883 308 3014","0664 884 705 95"
+"HAIDER Erhard","+43 1 73232 2280","+43664 884 566 95"
+"PETROVIC Goran","0043 1 98132 1479","+43664 6188417"
+"HORVATH Sandra","0043 1 73232 2235",
+"BAYER Claudia","0043 1 98132 1495","0043664 88456657"
+"IDL Reinhard","0043 1 98132 1474","+43 664 5248308"
+"STEINB?CK Romana","0043 1 98132 1451","0664 1457741"
+"KIENBAUER Stefan","0043 1 98132 1470","+43664 884 56 691"
+"SCHLEIFER Martina","+43 1 98132 1466",
+"CIRKOVIC Anita","0043 1 98132 1412","0664 884 566 76"
+"BOLNBERGER Karoline","0043 1 98132 1476","+43 664 6188442"
+"FUTTERKNECHT Hans","0043 1 98132 1403","0664 884 5 666 9"
+"PRIBEK Alexandra","0043 1 98132 1463","+43 664 5250962"
+"SCHWARZ Anita","0043 1 98132 1429",
+"MARKOVIC Stefan","0043 1 98132 1492","0043 664 884 566 81"
+"MOSHIRIAN Neda","01981321433","06648262172"
+"BREINDL Josef","0043 1 98132","0664 524 83 13"
+"STADLER Helene","0043 1 98132 1491",
+"SCHOPF Julia","0043 1 98132 1436",
+"GATTINGER Martina","01981321424","066488724540"
+"SCHNEIDER Julia","+43 1 98 132 1475","+436648142223"
+"BABIC-CRNAC Marina","+43 5337 62912 6210",
+"DONAU Martina","0043 5337 62912 6222",
+"HAMMINGER Sabine","+43 (0) 2622 25551",
+"GOLLINGER Ursula","+43 (0) 2622 25551 2736","0664 842 66 69"
+"WEISSENB?K Karin","+43 (1) 732 32 2233",
+"VOGLER Jennifer",,
+"Kundenservice 1",,
+"ABS Soilcount",,
+"DAMARIJA Natasa","+385-1-2450-621","00385 992178 991"
+"ORESKOVIC Maja","+385-1-2450-621","00385 98885 347"
+"HORVAT Gordana","+385-1-2450-621","00385 912415 306"
+"PODHRA?KI ?tefica","+385-1-2450-621","00385 912 415 301"
+"FABIJANIC Brankica","+385-1-2450-621","00385 912 415 311"
+"IVA PEHAR","+385-1-2450-621","00385 912 415 326"
+"MURKO Robert","00386 1589 31 07","+386 31 515 473"
+"SPOLJAR Marjana","+386 3 818 27 59","00386 516 719 90"
+"MIKOLIC Olga","00386 3 818 27 52","00386 3 818 27 52"
+"Vzdrzevanje","+386 3 818 27 58","+ 386 51 622 351"
+"GANGLMAIER Josef","0043 2622 25551 2723","0664 884 70567"
+"VORISEK Jasmin","0043 2622 25551 2755","0664 88470571"
+"KAINZ Andreas","0043 2622 25551 2724","0043 664 88470568"
+"STRAUSSBERGER Erwin","0043 2622 25551 2758","0043 664 8343798"
+"LEDERM?LLER Herta","0043 2622 25551 2744","0664 8426661"
+"SCHWARTZ Doris","0043 2622 25551 2735",
+"LAHRNSACK Elfriede",,
+"STUMPTNER Karin","0043 2622 25551 2755","0664 88470571"
+"SANDRI Erika","0043 2622 25551 2744","0043 699 8426661"
+"PFALLER Klaudia","0043 2622 25551 2743","0043 664 6188413"
+"SAVKLI G?nhan","0043 2622 25551 2722","0664 88456656"
+"M?RKL Josef","0043 2622 25551 2761","0043 664 6188484"
+"HARTMANN Michaela","0043 2622 25551 2742","0043 664 5248307"
+"NIERER Heidi","0043 2622 25551 2734",
+"MOZELT Ingrid","0043 2622 25551 2731",
+"RIEGLER Brigitte","0043 2622 25551 2737","0043 664 6188439"
+"BLASCHKE Oliver","0043 2622 25551 2756","0664 88470575"
+"UNGHEANU Adriana","0043 2622 25551 2746","0664 88470569"
+"R?BENBAUER Bianca","0043 2622 25551 2726","0664 618 84 60"
+"Hans van Hal",,
+"Mark van de Vorstenbosch",,
+"Paul van Dommelen",,
+"Stefan van Lammeren",,
+"Alin Nedelcu",,
+"Calin Mut",,
+"Hans van Laarhoven",,
+"Octavian Oprea",,
+"Rudy Oppers",,
+"Cosmin Dumitru Simion",,
+"Dennis Hermsdorf",,
+"Corne van Heeswijk",,
+"Geert Koeling",,
+"Rob Helsen",,
+"Ionut VLAD",,
+"Jeroen Schelle",,
+"Elmer Brockotter",,
+"Sjaak Stalenhoef",,
+"Iulia Badea",,
+"Ana-Maria STROE",,
+"Jeroen van Lier",,
+"Jeroen de Vries",,
+"Ionut Ghenta",,
+"Alexandru OPREA",,
+"Stefan Vizitiu",,
+"Erwin van Bokhoven",,
+"STUBNER Johanna","+43 1 98132 1488","+43 664 884 566 53"
+"Maarten-Jan van Kessel",,
+"CIUNGU Bogdan",,
+"Michel Marree",,
+"Arnold Kelly",,
+"SCHWAB Sylvia","0043 6583 8505","0043 664 8142218"
+"GROSSE Steffen","0043 6583 8505 5730","0043 664 6188434"
+"BUCHNER Lenka",,
+"UNTERMOSER Peter","0043 6583 8505 5731","0043 664 8142229"
+"GRIESSL Walter","0043 6583 8505 5710","0043 664 8343780"
+"KARBUN Karin","+43(0) 5238 87000 6426","+43664 618 84 80"
+"SZABO Balint","+36 94 513 690 7911","+36 20 967 3267"
+"VASKO Akos","+36 94 513 690 7913","0036 20 459 95 36"
+"ALBERT Andrea","+36 94 513 690","+36 20 466 1117"
+"NEMETH Jozsef","+36 20 924 0296","+36 20 924 0296"
+"KISS Ildiko","+36 1 463 7133","0036 20579 2662"
+"SZTOJANOV Marianna","+36 1 463 7269","0036 20260 1515"
+"PEIMPOLT Cornelia","0043(0) 5238 87000 6404","0043664 6188452"
+"SCH?RGHOFER Judith","0043 6246 73985 5012",
+"GANSER Isabella","+43 (1) 732 32 2242","+436641184591"
+"MILATASEVIC Monika","0043 1 73232 2269",
+"GROSSKOPF Birgit","0043 1 73232 160",
+"classit",,
+"GABRIEL Rainer","0043 316 282002 8816","+43 664 826 21 48"
+"GINDLER Andrea","0043 2742 881813 3111","0664 884 566 99"
+"KRAUTSCHNEIDER Thomas","0043 1 98132 1410","+43 664 2309680"
+"MARX Karin","0043 2626 62906 2720",
+"Expedit 6 SMW",,
+"Job Expedit 2 SMW",,
+"W?sche?bernahme  1 SMW",,
+"W?sche?bernahme  5 SMW",,
+"Expedit 1 SMW",,
+"Expedit 4 SMW",,
+"ABAS KFJ Kontrolle",,
+"ABAS KFJ 1",,
+"Expedit 3 SMW",,
+"Expedit 2 SMW",,
+"Job Expedit 1 SMW",,
+"Lager SA14",,
+"CAM",,
+"W?sche?bernahme  2 SMW",,
+"Job Expedit 3 SMW",,
+"W?sche?bernahme  3 SMW",,
+"Chemischreinigung 1 SMW",,
+"Chemischreinigung 2 SMW",,
+"W?sche?bernahme  4 SMW",,
+"Expedit 5 SMW",,
+"W?sche?bernahme 6 SMW",,
+"EDINGER Maria Anna","0043 1 98132 1444",
+"EL-SAYED Samira",,"+43 66488456693"
+"GITTLER Thomas","0043 1 98132 1445","+43 664 6188483"
+"RYBNIK?ROV? Silvia",,"+421 903 256 645"
+"KOESLING Sandra","0043 (0) 6246 73985 5013","0664 826 22 09"
+"Expedit 1 SML",,"0664 842 66 79"
+"W?scheausgang SA16",,
+"M?LLER J?rgen","0043 1 4931331","0043 664 6188476"
+"SA16Lager1",,
+"Admin ABS",,
+"W?sche?bernahme 1 SML",,
+"Lagerzuordnung 3 SMLL",,
+"PROKSCH Rudolf","0043 7224 65990 4015","0043 664 4108900"
+"LEITNER Hannes","0043 7224 65990 4017","0043 664 618 84 12"
+"PUMBERGER Manuel","+43 (0) 7224 65990 4024","066488456696"
+"SA16 Einlese",,
+"LEDVINA Daniela","0043 1 4931331 1610","0043 664 884 705 54"
+"Expedit 2 SML",,
+"Expedit 4 SML",,
+"Expedit 1 SA16",,
+"GLABISCHNIG-SCHINDLER Reinhard","+43 4255 20201 5913","0043 664 3831099"
+"SIMON Johann","+43 1 732 32 2254","0043 664 618 84 21"
+"HAVELNE KULCSAR Krisztina","+36 1 463 7104","0036 20912 3450"
+"KOVACS Timea","+36 1 463 7109","0036 20920 8929"
+"ZAKHAR-TAMBA Angelika","+36 1 463 7130","0036 20966 8025"
+"MOLNAR Eva","+36 1 463 7103","0036 20986 3026"
+"BURMEISTER-SZANATI Mirella","+36 1 463 7106","0036 20398 7886"
+"D?LZL Reinhard","01 73232",
+"Ferialpraktikant 1",,
+"Lagerzuordnung 1 SMLL",,
+"K?HMAYER Daniela",,
+"GOTTSMANN Nicole","0043 2742 883308 3016","0664 884 705 84"
+"WOELL Yvonne",,
+"Lagerzuordnung 2 SMLL",,
+"VITANYI Hajnal","+36 1 463 7170","0036 20543 4760"
+"DARGEL Claudia",,"0043664 884 566 66"
+"SalTexLog",,
+"TEST_SalMolVor",,
+"TEST_SalTexLog",,
+"TOTH Eszter","+36 1 463 7268","0036 20330 8697"
+"THOMANN Nora","+36 1 463 7102","0036 20991 8040"
+"TAMAS Gabor","+36 1 463 7166","0036 20955 3883"
+"KALMAN Eva","+36 1 463 7102","0036 20984 6115"
+"MOLNAR Zsuzsa","+36 20579 2378","0036 20579 2378"
+"KOBLENCZ Janos","+36 209129 673","0036 209129 673"
+"?RLEY Kata","+36 1 463 7138","0036 20935 5124"
+"ERTLI Gabor","+36 20967 3327","0036 20967 3327"
+"LANG Krisztian","+36 1 463 7112","0036 20551 4060"
+"NAGY-PALOCZ Agnes","+36 1 463 7117","0036 20579 8194"
+"MAROSFFY Orsolya","+36 1 463 7180","0036 20563 1262"
+"URBAN Szilveszter","+36 1 463 7100","0036 20333 2017"
+"DULLO Gabriella","+36 1 463 7169","0036 20211 8463"
+"HALASZ Istvan","+36 20980 6412","0036 20980 6412"
+"K?HB?CK Markus","0043 7224 65990 4031","0043 664 3841638"
+"KOPECKY Konrad","0043 1 98132 1473","0664 834 37 99"
+"KESZLERI Tamas","+43 1 98 132 1456","+43 664 826 21 11"
+"tsystems",,
+"absint1",,
+"absint2",,
+"ABS Webserver",,
+"KISS Ronald","+43 (1) 98 132",
+"GRZIN Rajko","+386 1 589 31 12","+386 516 711 75"
+"PORAVNE Mija","+386 1 589 31 06","+386 1 563 71 00"
+"RAJH Irena","+386 1 589 31 25","+386 1 563 71 00"
+"DOBRECEVIC Mirta","+385-1-2450-621",
+"WSUS",,
+"IOANE Victor","0043 1 98132 1442","+43664 8262149"
+"FILIPOVI? Katarina","+385-1-2450-621",
+"SKRBIC Nebojsa","+385-1-2450-621",
+"LONGO Antonio","+385-1-2450-621","00385 912 415 308"
+"FROST Eva",,
+"KARELL Isabella",,
+"STEVANOVIC Jelena",,
+"VELAGIC Ivana","0043 1 98132 1415",
+"POPA Andrea","0043 1 73232 118",
+"Lager 1 Leogang",,
+"Expedit 1 LEOG",,
+"KRAUTSCHNEIDER Christine","0043 1 98132 1420","+43 664 3011929"
+"MIGSCHITS Margit","+436648262188","+436648262188"
+"KICKINGER Silvia","0043 2742 881813 3100",
+"HARAZINOVA Magdalena","00420 315 724 221","00420 602 444 462"
+"BRILL-M?HLEGGER Simone","066488456672","066488456672"
+"DANLER Sabine","0043 664 826 22 23","0043 664 8262223"
+"MOOSBURGER Sabine","0043 664 884 566 78","0664 884 566 78"
+"SPENGLER Manuela","+43(0) 5337 62912 6204","0043 664 8142221"
+"HASS Kurt-J?rgen (Habsburg)",,
+"PWS Eingang 1 KRAM",,
+"Flachw?sche Lager 1 SMLL","0043 2742 883308 3015",
+"CERNY Karin","0043 1 98132 1431",
+"Montanari 1 SCHI",,
+"Steril PC 12 SAWR",,
+"Steril PC 2 GRAZ",,
+"Expedit 2 LEOG",,
+"BURMEISTER Michael","+43 (1) 98 132 1520","0664 826 21 35"
+"PWS Eingang 2 KRAM",,
+"STERIL Legeraum 1",,
+"W?sche?bernahme  2 SA22",,
+"PWS Ausgang 1 MATT",,
+"W?sche?bernahme  1 ARNO",,
+"ZIMA Stefan",,
+"Expedit 3 SCHI",,
+"KS-SML",,
+"BINDBERGER Wolfgang",,
+"ARNOEXP1",,
+"Expedit 1 KRAM",,
+"PREDONY Hans",,
+"STIX Andreas",,"0043664 884 566 65"
+"WerkstaetteSA22 Benutzer","0043 1 73232 142",
+"W?sche?bernahme  2 Graz",,
+"W?sche?bernahme  1 SA22",,
+"DURSTM?LLER Susanne","+43 (1) 732 32","0664 884 566 62"
+"Lager 1 Graz",,
+"Job Expedit 1 MATT",,
+"SAWR Reinraum 1",,
+"W?sche?bernahme  1 SCHI",,
+"Job Expedit 2 KRAM",,
+"W?sche?bernahme Cont GRAZ",,
+"LANDAUER Silvia","0043 1 73232 127",
+"KONECNY Brigitte",,"00664/6188430"
+"JANZ Zwetana","0043 5337 62912 6226","0043 664 8142213"
+"W?sche?bernahme  3 SAWR",,
+"PWS Ausgang 2 MATT",,
+"Steril PC 1 GRAZ",,
+"Expedit 3 SA22",,
+"EXPMAX1",,
+"CICEK Mustafa","0043 (0) 2622 25551 6216","066488470582"
+"Steril PC 6 SAWR",,
+"Allgemein 1 ARNO",,
+"KRANKL Thomas","0043 1 98132 1455","+43 664 2304438"
+"KOM 1 SMLL",,
+"W?scheausgang 1 Masser",,
+"PWS Ausgang 1 KRAM",,
+"SCHLOSSER KRAM","+43(0) 5337 62912",
+"Expedit 3 Graz",,
+"SMLLKOM5ITM",,
+"KOM 4 SMLL",,
+"PWS Ausgang 4 KRAM",,
+"PWS Eingang 3 KRAM",,
+"SAWR Jensen VPN",,
+"Expedit 6 KRAM",,
+"Steril PC 3 GRAZ",,
+"RADIC Radislav","0043 6246 73985 5018","0664 884 705 60"
+"PWS Eingang 1 MATT",,
+"Expedit 2 SCHI",,
+"RESCHENEDER Raphael","0043 1 98132 1465","+43 664 618 84 36"
+"Steril PC 9 SAWR",,
+"ZIER Silvia","+43 (1) 732 32 2293","+43664 887 245 55"
+"W?sche?bernahme  3 ARNO",,
+"Steril PC 4 GRAZ",,
+"Job Expedit 2 ARNO",,
+"GRABNER Josef",,"0043 664 4608909"
+"Kardex 3 SMLL",,
+"Produktions 2 LEOG",,
+"steril-pz Benutzer","+43 316 282002",
+"TUCEK Monika","0043 6246 73985 5019","0043 664 1220669"
+"SMLLKOM5ABS",,
+"Steril PC 3 SAWR",,
+"EXPMAX3",,
+"B?NZ Michael","+43 4255 20201 5921","0043 664 6188482"
+"ZAHRER Stefan","0043 1 98132 1453",
+"SCHREIBER Stefanie","0043 1 98132 1455",
+"Steril PC 5 SAWR",,
+"GIEBNER Eva","0043 1 4931331 1613",
+"SMLL",,
+"Expedit 4 KRAM",,
+"Expedit 1 SAWR",,
+"Lager2 SA22",,
+"FREY Manuela","0043 2622 25551 2755",
+"SMLLKOM4ITM",,
+"PWS Eingang 2 MATT",,
+"PENZ Edgar","0664 814 22 40","0043 664 814 22 40"
+"Expedit 2 KRAM",,
+"W?sche?bernahme  1 SMS",,
+"ABAS KFJ Bereitschaft",,
+"SOPUCH Georgette","+43 1 73232 111",
+"SEMTURS Philipp","+43 1  98 132 1438",
+"Steril PC 5 GRAZ",,
+"PWS Expedit 1 KRAM",,
+"W?sche?bernahme  3 SA22",,
+"SMLLKOM4ABS",,
+"Lager1 SA22","+43 1 73232 191",
+"HIMPEL Ann","+43 1 98 132 1452","0043664 88456663"
+"Montanari 2 SMS",,
+"PUEKER Eva",,
+"Montanari Sicherung",,
+"KOM 3 SMLL",,
+"PWS Eingang 3 MATT",,
+"Schichtleitung SMS",,
+"Schulung USER 5",,
+"Schulung USER 3",,
+"MATEJIC Radmile","051250482597",
+"SCHUBERT Katharina","0043 1 98132 1446","0043664 884 566 65"
+"PWS Eingang 5 KRAM",,
+"PWS Eingang 4 KRAM",,
+"TRUTHAN Martin","0043512 504 800 78","0043 664 6188422"
+"Expedit 1 MATT",,
+"W?sche?bernahme  2 ARNO",,
+"SPENGLER Hartmut","0043 5337 62912 6225","0043 664 8142227"
+"PWS Eingang 4 MATT",,
+"SMLLKOM6",,
+"Steril PC 7 SAWR",,
+"VIERLINGER Margit","0043 2622 25551 2725",
+"PWS Ausgang 2 KRAM",,
+"Montanari 1 SMS",,
+"ABAS KFJ WH Bereitschaft",,
+"Job Expedit 3 Graz",,
+"Expedit 1 SA22",,
+"Expedit 2 SA22",,
+"WALLNER Melanie","0043 1 98132 1455",
+"PWS Expedit 2 KRAM",,
+"Schulung USER 6",,
+"abasuser abasuser",,
+"Produktion 1 LEOG",,
+"Job Expedit 1 SAWR",,
+"GMOSER Judith","0043 1 73232 140","0043 664 8262133"
+"umsSA22","0043 1 73232166",
+"Job Expedit 1 ARNO",,
+"Job Expedit 2 Graz",,
+"GOSCH Helga","0043 316 282002 42",
+"Jensen VPN",,
+"W?sche?bernahme 1 LEOG",,
+"HACKL Norbert","0043 1 98132 1443",
+"CAVKIC Denis","+43 1  98 132 1411","0664 842 66 64"
+"KORMOUT Helga","0043 1 201 003 745",
+"W?sche?bernahme  2 SAWR",,
+"NEUBAUER Anna","0043 4255 20201 5917","00436646188464"
+"Expedit 3 KRAM",,
+"steril-ex Benutzer","+43 316 282002",
+"MOLCIK Theres","0043 1 98132 1428","+43 664 6188424"
+"Expedit 4 SA22",,
+"BAINSKY G?nther","0049 151 52570437","0049 151 52570437"
+"Expedit 5 SA22",,
+"Job Expedit 1 SA22",,
+"BDO",,
+"Expedit 2 SAWR",,
+"Expedit 3 SAWR",,
+"Steuer PC 1 SCHI",,
+"SAWREinlesePC1",,
+"Steril PC 13 SAWR",,
+"AUER Maria","0043 5337 62912 6201","0043 664 2501458"
+"DRACK Ingeborg","+43 512 504 83037",
+"Schulung USER 2",,
+"Instandhaltung SMS",,
+"EXPMAX2",,
+"GALLOB Stefan","+43 4255 20201 5957","+43 664 618 84 67"
+"HABERL Jasmine","0043 316 282002 41",
+"Expedit 2 Graz",,
+"Steril PC 4 SAWR",,
+"Kardex 2 SMLL",,
+"EM Info Mailer",,
+"Expedit 1 Graz",,
+"W?sche?bernahme  1 SAWR",,
+"W?scheingang 1 Masser",,
+"STEINLECHNER Petra","0043 5337 62912 6212",
+"J?GER Agnes","0043 1 98132 1431",
+"FLOH Julia","+43 2742 883 308 3011","0664 460 89 09"
+"METTLER Rosemarie","0043 5352 64384 6380","+43664 814 22 20"
+"W?sche?bernahme  1 Graz",,
+"Steril PC 11 SAWR",,
+"steril-id Benutzer","+43 316 282002",
+"Steril PC 8 SAWR",,
+"W?sche?bernahme  1 KRAM",,
+"PWS Ausgang 3 KRAM",,
+"Job Expedit 2 SAWR",,
+"Job Expedit 1 Graz",,
+"TAHRAOUI Brahim","0043 1 4931331 1640","0043 664 6188476"
+"LENGAUER Wilhelm","0043 5337 62912 6223","0043 664 6188426"
+"Steril PC 2 SAWR",,
+"Steril PC 10 SAWR",,
+"LS 1 SMT",,
+"SCHUELLER Peter","+43 (1) 732 32 2206","+430664 887 245 30"
+"KORMOUT Nicole","0043 1 201 003 745",
+"Voicemailgraz","0043 316 2820027150",
+"Kreussler Benutzer","0043 316 282002",
+"JOVANOVIC Jasmina","+43 512 504 83036",
+"SAWR Baxter",,
+"TIPOTSCH Theresia","0043 5337 62912 6209","0664 884 705 79"
+"Job Expedit 1 KRAM",,
+"soilcount",,
+"LEUNG Luck Tour","+43 1  98 132 1460",
+"Betriebslager 1 SMS",,
+"Expedit 5 KRAM",,
+"ANGER Christine",,
+"Expedit 4 SAWR",,
+"Montanari 2 ARNO",,
+"HOPF Sandra","0043 1 73232 118",
+"Job Expedit 4 KRAM",,
+"STRASSER Thomas","0043 6246 73985 5019","0664 884 566 74"
+"KAPELLER Lisa",,
+"Job Expedit 3 KRAM",,
+"TARMANN Jennifer","0043 4255 20201 5912","0664 618 84 00"
+"Job Expedit 1 SMLL",,
+"KOM 2 SMLL",,
+"Job Expedit 2 SMLL",,
+"PWS LS 1 KRAM",,
+"Expedit 3 LEOG",,
+"Schulung USER 1",,
+"Job Expedit 2 SA22",,
+"SONNTAG Oliver","+43 5337 62912 6220","0043 664 4031299"
+"Montanari 2 SCHI",,
+"FREIDL Julia","+43 4255 20201 5918","0043 664 6188465"
+"Kardex 1 SMLL",,
+"PWS Office 1 KRAM",,
+"wirl22 wirl22",,
+"Expedit 1 SCHI",,
+"VIERLINGER Harald","0043 1 98132 1460","0664 826 21 11"
+"Expedit SCHI",,
+"Expedit 4 LEOG",,
+"Job Expedit 1 SMS",,
+"BUCHHEIT Oliver","0043 1 98132 1477","0664 6188473"
+"Expedit 3 SML",,
+"Montanari 1 ARNO",,
+"Schulung USER 4",,
+"Steril PC 1 SAWR",,
+"Werkstatt","0043 316 282002",
+"PR?PROST Manuel","0043 4255 20201 5934","0664 618 84 07"
+"Expedit 1 SMS",,
+"KOM 5 SMLL",,
+"MESSNER Adel","+36-(1)-4637 -100","+36 20 927 7788"
+"MILOVANOVIC Manuela","0043 1 98132 1449",
+"IVANCUK Adrian","+421 268 255 107","+421 911 454 023"
+"ROZIAK Miroslav","+421 268 255 104","+421 903 711 944"
+"testsk",,
+"ABAS Bereitschaft",,"+43664 6188490"
+"THOMANN Tibor","+36 20958 3801","0036 20958 3801"
+"NIEDRIST Ernst","+43 2622 255510 2721","06648262106"
+"KISS Reka","+36-(1)-4637 3661","0036 20537 4629"
+"PAPP Nikolett","+36 1 463 7105","0036 30509 7092"
+"ROZNOVANU Adrian","+40 31 105 1019","0040 758 500 767"
+"Scanner1 SMB","+36-(1)-4637 -100",
+"JASLOVSKY Maros","+421 268 255 112","+421 911 623 923"
+"RABELOVA Lucia","00421 268 255 101","00421 948 377 997"
+"URBANKOVA Andrea","+421 268 255 102","+421 903 708 778"
+"Internet User SMSK",,
+"Zutom",,
+"periaranea",,
+"SCHI ?berwachungsanlage",,
+"salvpn",,
+"ZUPANCIC Tilka","00386 1 589 31 40",
+"SKVARCA Milena","+386 1 589 31 19",
+"CENTA Irina","+386 1 589 31 29","+386 1 561 07 90"
+"LETNAR Mateja","+386 1 589 31 36","+386 417 150 91"
+"KOTNIK Pavel","+386 1 589 31 21","+386 417 150 99"
+"ZAGAR Katarina","+386 1 589 31 41","+386 41 318 436"
+"OSELJ Barbara","+386 1 589 31 43","+386 413 275 71"
+"ZELEZNIKAR Mateja","+386 1 589 31 42",
+"KRMELJ Primoz","+386 1 589 31 38","+386 313 585 42"
+"MALOVRH Sabina","+386 1 589 31 46",
+"SVEC Bojana","+386 1 589 31 16","+43664 514 78 42"
+"JEMEC Jana","+386 1 589 31 45",
+"PEVEC Sabina","+386 1 589 31 18","00386 31 692 148"
+"POGACNIK Ales","+386 1 589 31 48",
+"ROZIC Gordana","+386 1 589 31 23",
+"JAZBEC Uros","+386 1 589 31 44","+386 513 020 23"
+"Christoph Steiger",,
+"Wolfgang Maier",,
+"Thomas Hemerka",,
+"Christoph Sinabell",,
+"Patrick Fleischhacker",,
+"Mario Valenta",,
+"BESAdmin",,
+"BENESOVA Iveta","00420 315 724 221 18","00420 602 321 797"
+"MLEJNKOVA Lucie","00420 315 724 221 18","00420 725 349 329"
+"MIRACKA Katerina","00420 315 724 221 27","00420 725 157 670"
+"KONTROVA Julia","00420 315 724 221 22","00420 721 870 796"
+"STECHER Brigitte","+43(0) 5238 87000 6401",
+"H?BEL Susanne","0043 1 98132 1491",
+"SalMolVor",,
+"SKOKAN David","+420 315 724 221","00420 602 444 492"
+"TODOROV Emil","00420 261 710 111 44","00420 724 176 915"
+"NAHLIKOVA Linda","00420 315 724 221 18",
+"Kamera",,
+"STASTNA Veronika","00420 315 724 221 14","00420 721 870 796"
+"VORLICEK Tomas","00420 315 724 221","00420 724 172 175"
+"CHEM Schichtleitung","00420 261 710 111","00420 773 020 552"
+"JURAGA Inga","+385-1-2450-621","00385 912415311"
+"Spam",,
+"BIEDERMANN Stefan",,
+"EINZINGER Heinrich","0043 1 98132 1448","0664 8142206"
+"extest_18e190286a404",,
+"SCHMIDT Gerhard","+ 43 316 282002 8841","+43 664 887 245 77"
+"GROLLER Sandra","+ 43 316 282002 8842",
+"JAHIC Sonja","+ 43 316 282002 8821",
+"WIRKER Kevin","01 98 132 1521","066488724551"
+"HEITZER Erika","0043 2622 25551 2741","0043 664 5248305"
+"DUTTER Martin","0043 5337 62912 6293","0043 664 6188420"
+"HIRTL Georg",,
+"PERILAGER1",,
+"piesein1",,
+"piesexp1",,
+"Reklamation1",,
+"Ricoh Scanner SMRO",,
+"STETINOVA Veronika",,"+421 911 337 746"
+"UNTERKIRCHNER Norbert","+43 664 826 21 35","+43 664 826 21 35"
+"W?scheausgang2",,
+"HOMAN Jacob",,
+"FRICK Michael","0043 7224 65990 4011",
+"AUER Marion","0043 7224 65990 4012",
+"MAGEL Simone","0043 7224 65990 4014",
+"WIESAUER Wolfgang","0043 2742 881813 3140","0043 664 6188440"
+"J?CKEL Carsten","0043 6583 8505 50","0043 664 826 2135"
+"TRAGAUER Renate","0043 4255 20201 5911","06648262102"
+"KAINZ Sylvia",,
+"EBNER Martina","+43 4255 20201 9517",
+"FIGLHUBER Klemens",,
+"HealthMailbox9ee10bd9d9b64db1affa969849a93517",,
+"HealthMailbox99ad68f02ebc4f13accdfe7f9ff16f7f",,
+"JANDA Manuela","0043 1 98132 1502",
+"HOFER Martin","+43 (1) 98 132",
+"KOLLEGGER Hans-Peter","0043 1 73232 2238","+43664 814 22 10"
+"KATZER Daniel","01981321437","066488470594"
+"HALBACH Daniela","01981321472","066488470566"
+"KUHN Raphael","0043 1 98132 1481","+43664 826 21 88"
+"GRUBER Melanie","0043 1 98132 1416",
+"MAJDANSKI Michal","+43 1  98 132 1413","06648262134"
+"MILOVANOVIC Mirjana","+43 (1) 732 32 2241",
+"MILOVANOVIC Andrea","0043 1 98132 1491",
+"LEDERBAUER Clemens","0043 1 98132 1482","+43664 8142201"
+"SEMPER Josef",,"+436648262138"
+"SCHADENHOFER Lukas","+43 1 98 132 1503","+43 664 618 84 10"
+"LACKINGER Christian","0043 1 98132 1471","0043 664 5248314"
+"HealthMailboxcefdcec2d4c14331a95d74457323c6c2",,
+"HealthMailboxcc6ca2c87f3c407a91ba9fe177a4d037",,
+"HealthMailboxbd8f65bdadbf44f1bf1a4bb53ba57adf",,
+"HealthMailbox6cb240509cac43d497eeb02e3b956f35",,
+"HealthMailbox8aa5e614799a46c3bcf94002713a38ae",,
+"HealthMailbox5bd66e8f7834491189354e871eab5b9e",,
+"HealthMailbox2275d22e4307413db912a0fbefdd2169",,
+"HealthMailbox5d9dcfd65a234480b2ae0e02f9aefb3c",,
+"HealthMailbox2647a3ab18f14a48acc627dd05a67ca6",,
+"HealthMailboxb5fa5fcf7e6d4710b15af87a31430d3c",,
+"TARCSA-TOTH Lilla","+36 94 513 690 7900","0036 20 495 83 86"
+"INZ SCHLOSSER","+43(0) 5238 87000",
+"REDL Lukas","+43 1 98132 1529","+43 0664 884 705 67"
+"TINHOF Katharina","+43 (1) 98 132 1417","0043 98 132 1417"
+"VYVADIL Helene",,
+"SMAJIC Mehmedalija","0043 5337 62912 6263","0043 664 52 52 109"
+"SMP Vertrieb",,
+"SMP Personal",,
+"CHEM Instandhaltung",,
+"BECICKOVA Marketa","00420 261 710 111","00420 721 870 760"
+"JANECKOVA Iveta","+420 315 724 221 12",
+"KRIZ Lubomir","+420 315 724 221 15","00420 702 010 353"
+"MERICKOVA Jitka","00420 315 724 221",
+"MICKOVA Romana","00420 315 724 221","00420 724 176 912"
+"LEITNER Brigitte","+43(0) 5238 87000  6419","0043664 618 84 40"
+"BR?UER Renate",,
+"WEIGL Stefan","+43 1 98 132 1501",
+"GIEFING Erich","+43(0) 2626 62906 7213","0664 524 83 01"
+"HealthMailboxec04b23043f247f9bd1c18ffdb64acce",,
+"PHILIPP Andreas","0043 1 98132 1494","+43664 8142203"
+"Migration.8f3e7716-2011-43e4-96b1-aba62d229136",,
+"Google Places",,
+"AUGUSTIN Paula",,
+"K?NIG Margit","6262","0664 884 705 83"
+"T?CCAR Ramazan","+43(0) 5238 87000 6418","0664 887 245 65"
+"GABOR Marinela-Mariana","+43(0) 5238 87000 6417","066488724566"
+"BARILITS Kerstin",,
+"HERCZEG Andrea","+36 1 463 7114","0036 30548 3734"
+"KESZTHELYI-LENGYEL Agnes","+36 20543 4818","0036 20543 4818"
+"EKAER","+36 1 4637104",
+"AKHINSZKY Erika","0036 1 463 7100",
+"MATUSKA Sabine","+43 (0) 7224 65990 4012",
+"PETRICIC Damir","+385-1-2450-621","00385 912 415 325"
+"Anghel Gabriel",,
+"SMW Kontrolle 1",,
+"SMW Kontrolle 3",,
+"SMW Kontrolle 5",,
+"SMW Kontrolle 4",,
+"SMW Kontrolle 2",,
+"LECHNER Elisabeth","+43 (0) 7224 65990 4023","+43664 8872 4580"
+"VASIU Corina","+43 (0) 7224 65990 4029","0664 886 487 11"
+"AUER Nicol","0043 2742 883308","+4366488470557"
+"GOGOLAK Ferenc","+36 20250 2209","0036 20250 2209"
+"JOKA Marko","+385-1-2450-621",
+"SAKIC Petar","+385-1-2450-621",
+"SCHI Buendel 2",,
+"PWS Ausgang 3 MATT",,
+"STERIL EIN 3",,
+"Outscan1 SCHI",,
+"Arno EXPEDIT 2",,
+"arnomasserreserve1",,
+"smsprod1",,
+"PWS Eingang 02 MATT",,
+"Expedit 4 Graz",,
+"N?herei 1 Graz",,
+"MATT Betriebslager 1",,
+"SCHI Buendel 1",,
+"STERIL EIN 2",,
+"Kontrollstation 1 SCHI",,
+"Inscan 1 SCHI",,
+"Arno EXPEDIT 3",,
+"STERIL EIN 1",,
+"Expedit 2 SMS",,
+"Expedit 3 SZOM",,
+"SVORCOKA Helena","00421 268 255 255","00421 903 236 645"
+"Invoice BBG",,
+"BRANDST?TTER Lisa","5911",
+"DORDEVIC Mladen","3822","+381 62198 7999"
+"MARINKOVIC Aleksandra","3812","+381 60646 8536"
+"MILENKOVIC Predrag","+381 116 192 353","+381 62233 079"
+"POPOVIC Jovica","+381 116 192 353","+381 606468532"
+"MIHAJLOVIC Nikola","+381 116 192 353","+381 606468534"
+"RAC Rok","+386 1 589 31 35","+386 41 715 098"
+"Mario Hartleb",,
+"Susanne Eherer",,
+"HEIS Bettina","+43(0) 5238 87000 6403",
+"MERDAVS Bostjan","+386 1 589 31 42",
+"CICIC Bozana","+386 1 589 31 34",
+"Sara BEVC JONAN",,
+"KALMANN Kurt",,
+"KINCSEN Enik?","+36-(1)-4637 -100","+36 20 543 4636"
+"GERGELY Miklos","+36-(1)-4637 -100","0036 20233 5262"
+"Expedit 1 SZOM",,
+"BOZSIK Szilvia","+36-(1)-4637 3662","0036 20927 7788"
+"Lager 1 SMB","0036 1 463 7100",
+"MAGASI Peter","+36-(1)-4637 -100","+36 20 991 7300"
+"BAYER Judith",," "
+"MARX Bianca","+43(0) 5238 87000 6417","0664 886 245 86"
+"WERTENBACH Stefanie","+43 (0) 2622 25551 2735",
+"GUERTLER Karin","0512 504 82938",
+"TRIVUNOVIC Aleksandra","0512 504 82939",
+"Expedit 1 INZ",,
+"SCH?R Patricia",,
+"Betriebsrat KRAMSACH",,
+"JOZIC Bozica","0043 5337 6284","066488470585"
+"ETTENAUER Manuela",,
+"Rechnungen",,
+"KALINIC Dusan","+48 881 29 29 23","0664 814 22 36"
+"JEZDIKOVA Petra","+420 315 724 221",
+"JABLONSKA Beata",,
+"FRANIC Lana","+43 1 981321431","00436641448448"
+"BUSAM Stefan","0043 6246 73985 5014","0043 664 6188433"
+"BR?TZNER Michaela","0043 6246 73985 5011","0043 664 8142212"
+"STEINACHER Judith","0043 6246 73985 5012",
+"SPRINGL Margret","+43 6246 73985 5012",
+"KASPERER Wolfgang",,
+"FEICHTENSCHLAGER Gernot","0043 6246 73985 5019","0043 664 8142228"
+"EISENK?CK Janice","+43 (1) 98 132 1435","+43 664 8262159"
+"BRUNNER Christian","0664 826 22 23",
+"DOBER Reinhard","0043 1 98132 1472","0664 5457321"
+"ALTON Daniela","0043 1 98132 1457",
+"KOVAR Elfriede","0043 1 98132 1472","+43 664 8142223"
+"FRITSCH-RICHTER Herbert","0043 1 98132 1499","+43 664 6188494"
+"FANTONI Stefano","+43 4255 20201 5914","+43 664 887 245 87"
+"H?DL Erwin","+43 (0) 2622 25551 2764","0664 884 705 73"
+"SARK?ZI Tamas","+36 1 463 7111","0036 30197 0998"
+"HAJKOVA Michala","00420 315 724 221",
+"GRASSAUER Michael","0043 1 4931331 1610","0043 664 884 705 54"
+"K?TTNER Philipp","3012",
+"L?VEI Orsolya","+36-(1)-4637 1","0036 20543 4636"
+"HOMOLYA Ginger","0043(0) 5238 87000 6405",
+"___VMware_Conv_SA___",,
+"TIEFENBACHER Lisa",,"0043 6648142228"
+"UHLIR Martina",,
+"Lager 2 SMB","0036 1 463 7100",
+"NESVADBA Victoria","0043 2626 62906 7218","00436641336003"
+"SIC Sara","0043 1 98132 1448",
+"JASANSKA Blanka","+420 315 724 221",
+"FODOR Gyula","+36 20947 5030","0036 20947 5030"
+"FARAGOVA Eva","+43 (0) 2622 25551","0664 834 37 93"
+"KUHNT Claudia","0512 504 800 78",
+"KNAPP Roman","+43 (1) 98 132","0043 664 8343784"
+"MEISTERL Siegfried","0043 4255 20201 5919","0043 664 5248304"
+"Expedit Matten SA22",,
+"BARA Daniela","+43 (1) 732 32 2218",
+"INNERKOFLER Richard",,
+"SVANTNER Vladimir",,
+"GRUBER Barbara","+43 (0) 7224 65990 4010",
+"Alexandru Dicu",,
+"TENG Chun Shong","0512 504 82 905","0664 245 55 29"
+"Robert Iordache",,
+"STRAUCH Sabine","+43 (0) 2622 25551 2758",
+"LESKOVSKA Lucia","00420 315 724 221","00420 777 668 224"
+"BEDNARCIKOVA Martina","00420 315 724 221","00420 605 267 133"
+"FLEISCHANDERL Markus","+43 664 9795 572","0043 664 8142205"
+"GRUBHOFER Martin","0043 7224 65990 4022","06646188458"
+"BUCZKOWSKI Micha?",,
+"AICHER Manuela","+43 (0) 6246 73985",
+"GOTZ Sabine","0043 1 4931331 1612","0043 664 5248321"
+"K?TSAN Zsolt",,"0036 30 548 1073"
+"KAMAN Agnes","+36 94 513 690 7922","0036 30 278 79 10"
+"SCHN?LL Kathrin","+43 2626 62906 7211","+43 664 6188468"
+"IZZO Desiree","+43 4255 20201 5920","0043 664 618 84 66"
+"FAKTURY Salesianer",,
+"WAGNER Maria","+43 (0) 2622 25551",
+"RADULESCU Mihai",,"0040 745793171"
+"GE Kundenservice","0036 1 463 7100",
+"TOBLER Jasmin","+43 (0) 2622 25551",
+"PASALIC Karolina","0043 1 98132 1436",
+"KAMLEITHNER Dagmar","+43 (0) 2742 881 813","07472 90041 3055"
+"RUPPRECHT Ingrid","+43 (0) 2622 25551","0664 887 245 93"
+"TSCHINKEL Daniel","43 (0) 6246 73985 5028","0664 887 137 57"
+"Lager SMPL",,
+"Invoice BUND",,
+"PF1",,
+"JEKAL Alexandra","0043 1 98132 1509","0664 826 21 93"
+"KURCZ Monika","+36 1 463 7121","0036 30240 2399"
+"PINDEJ Marek","00420702010352",
+"SEMERADOVA Kristyna","+420 315 724 221",
+"ORBAN Sandor","+36 30607 2811","0036 30607 2811"
+"ZAWKO Sebastian","+48 22 673 41 91","0048 881 292 098"
+"CETINER Ayse Nur","+43 1 98 132 0","+436643163145"
+"PERCIN Vesna","+385-1-2450-621","00385 912 415 319"
+"Jhugroo Jeetandra",,
+"Paul Bors",,
+"ABS Maintenance",,
+"Vica Cristian",,
+"FATAN Andrei",,
+"SMW Kontrolle 6",,
+"CRAZNIC Andrei","+ 403 1 105 10 22","0040 752 210 934"
+"CONSTANTIN Andreea","+ 40 259 405 205 4109","0040 752 210 829"
+"TEODORESCU Alice","+40 259 405 205 4110","+40 752 243 177"
+"BJELOBRK Danijela","+385-1-2450-621","00385 912 415 308"
+"SAWR Outscan 1",,
+"W?sche?bernahme 2 KRAM",,
+"Steril PC 14 SAWR",,
+"SWAR Postenbeladeband 1",,
+"KRAM Reparatur 2",,
+"SAWR Buendel 3",,
+"SAWR Buendel 1",,
+"KH Waidhofen Portal 1",,
+"KRAM Reparatur 1",,
+"sawrtemp",,
+"KH Scheibbs Portal 1",,
+"SAWR Inscan 1",,
+"Lager 1 ARNO",,
+"SAWR Buendel 3
+CNF:0e81e59e-bc6b-4fa2-b87d-0449aed6a4d5",,
+"SAWR Buendel 4",,
+"Steril PC 15 SAWR",,
+"W?sche?bernahme 2 SMB","0036 1 463 7100",
+"Expedit 2 SZOM",,
+"ILGO Radoslav",,
+"W?sche?bernahme 3 SMB","0036 1 463 7100",
+"VideoKonferenzSZOM",,
+"W?sche?bernahme 1 SMB","0036 1 463 7100",
+"W?sche?bernahme 1 SZOM",,
+"VideoKonferenzSMB","0036 1 463 7100",
+"GABRIKOVA Tatiana","+421 268 255 108","+421 911 337 749"
+"ZENDEKOVA Miriam","8563","00421 948 272 983"
+"ZACHAROVA Jana","8514","00421 910 114 619"
+"SYKORA Jozef","8518","00421 903 623 934"
+"DURIS Matus","8513","+421 903 225 145"
+"NIKOLIC Dejan","+381 116 192 353","00381 60646 8532"
+"ZUPANCIC Lucija","00386 1 589 31 34",
+"HARTMAN Martina","00386 1 589 31 47",
+"PRIBICEVIC Matic",,
+"Michael Waltner",,
+"Agnes, Koszegi",,
+"Sandor Dani",,
+"Philipp Bernreiter",,
+"Janos Denes",,
+"Dallas Mellor",,
+"BAYEROVA Lenka","+420 315 724 221","00420 724 176 913"
+"CHABROS Thomas",,
+"SAL_CZ",,
+"GEBAUEROVA Stepanka","+420 315 724 221","00420 724 176 912"
+"SUSA Marjeta",,
+"STERLE Peter","00386 1 589 31 07","00386 31 703 948"
+"MOCNIK Romana","+386 4 51104 43",
+"Servis",,
+"CERNEZEL Beata",,
+"COH Klavdija","00386 3 818 27 59","00386 3 818 27 59"
+"MEHINOVIC Merisa",,
+"WINTER Johannes",,
+"BARTZ Karen","0043 664 618 84 41","0043 664 6188441"
+"STROBL Dagmar","+420 315 724 221","00420 725 310 753"
+"VALASEK Peter",,
+"GRAF Bianca","+43 2742 881 813 3111","0664 884 705 51"
+"W?scheeingang2",,
+"ODOR Istvan","+36 20 465 98 71","0036 20 465 98 71"
+"HINTERBICHLER Birgit","+43 6583 8505 5713","0664 884 705 88"
+"ALMASI Attila","+43 5337 62912 6284","+43 664 884 705 85"
+"DIETRICH Erikson",,
+"INZ Lager 1",,
+"T?CCAR Burak","+43(0) 5238 87000 6420","0664 118 32 36"
+"SCHORNSTEINER Helga","0664 88724591","0664/88724591"
+"BARKAWI Erua","0664/88724592",
+"BACINAC Nemanja","0043 1 98132 1416",
+"SVOBODOVA Anita","+420 315 724 221","00420 602 444 462"
+"CVETKO Dusan",,
+"BARTZ Analena","0043 1 98132",
+"BRUECH Jiri",,
+"BAKALAROVA Aneta","00420 315 724 221",
+"VOKACOVA Michala","00420 315 724 221","00420 721 870 796"
+"REICHERT Jan","00420 315 724 221",
+"PRAZAK Petr",,
+"LEJSEK Jiri","00420 315 724 221",
+"LEHOVCOVA Nikola","00420 315 724 221",
+"LASTIK Cenek","00420 315 724 221","00420 724 176 913"
+"KRSIKOVA Jitka","00420 315 724 221",
+"KRISTEK David",,
+"FABCINOVA Katarina","00420 315 724 221","00420 728 819 942"
+"ZADAK Viktor","00420 261 710 111","00420 605 259 681"
+"HRANICEK Dalibor","00420 261 710 111","00420 777 668 224"
+"CAVRK Jozef","8547","00421 948 362 516"
+"KUNAK Pavel",,
+"KULA Agnieszka","+48 881 292 265","0048 881 292 265"
+"SMHR Konferenzraum","+385-1-2450-621",
+"SMRS Konferenz",,
+"PASICAK Gabriel","+43 (0) 2742 881 813 3144","0664 884 705 89"
+"ANTAL Cristian","+43 (0) 2742 881 813 3143",
+"SAL Helpdesk",,
+"TAFFENT Michael",,
+"Damir Bezan","00386 1 589 31 47","00386 51 326 938"
+"FASCHING Max","+43 (1) 98 132 1516",
+"BUCHGRABER Christopher","+43 (1) 98 132","0664 887 137 63"
+"RIEGLER Melanie","+43 (0) 2742 881 813 3113","0664 884 566 99"
+"EZEAKOR Nicole","+43 (0) 2622 25551 2732",
+"RIEDLSPERGER Vanessa","+43 6583 8505 5711","0664 814 22 35"
+"PAPIS Monika","+48 881 212 764","0048 881 212 764"
+"MAZUREK Przemyslaw",,
+"JANKU Olesja","+420 315 724 221 29",
+"VARGHA Melania","+42 1 903 711 944","0042 1 903 711 944"
+"FORSTHOFER Johannes",,
+"SCHWARZOVA Sona","00421 268 255 338",
+"SZASZ Timea","+36 1 463 7118","0036 30303 2136"
+"HADLER Thomas","01 98132 1515","0660 385 44 56"
+"DOPIRIAK Branislav","8516","00421 948 101 009"
+"?PPINGER Peter","+43 (0) 7224 65990 4026","0664 887 137 72"
+"PIETEROVA Nikola","+420 315 724 221",
+"FREIBERGOVA Nada","+420 315 724 221","00420 702 010 352"
+"Invoice Out",,
+"HROMALIC Emila",,
+"inzlag2",,
+"recruiting",,
+"FAZEKAS Istvan","+36-(1)-4637 -100","0036 30231 0092"
+"GRMAN Lubos",,"+421 903 300 587"
+"WYSZOMIRSKI Norbert",,
+"ZIEMIANSKI Bartlomiej",,
+"BAINSKY Thomas",,"+43 660 1863214"
+"IT SMPL",,
+"GERLAI Gy?rgy","+36 20928 1389","0036 20928 1389"
+"Karbantartas","0036 1 463 7100",
+"VALKO Richard","+36 1 463 7125","0036 20363 1198"
+"REIM Jakob","+43 (1) 98 132 1506","0664 826 21 22"
+"MALLE Katharina","+43 (0) 4255 20201 5932","0664 336 17 56"
+"H?FFERNIG Martina","+ 43 316 282002 8837","0664 884 566 61"
+"SCHUSTEROVA Romana","+43(0) 5337 62912 6212","0664 884 705 80"
+"SCHIRGHUBER Karin","+43 7472 900 413 057","+43 664 8872 4592"
+"ALTIN Zeynep","+43 0 5238 87000",
+"ALBERTOVA Lucia",,
+"COMOVA Erika","004210268255104",
+"DZURIKOVA Dasa","+421 268 255 201",
+"FANOV? Alexandra",,
+"GEJDOSOVA Daniela","+421 268 255 101","+421 91 426 614"
+"KRIZAN Peter",,"+421 903 232 303"
+"KUKKIOVA Zuzana",,
+"LEJTRICHOVA Sona",,
+"PELIKANOVA Martina","+421 268 255 101","+421 902 317 405"
+"SILES Tomas",,
+"SMUTNA Eva","004210268255107",
+"STEFANCOVA Maria",,
+"VRECKOVA Monika",,
+"AHM Martina",,
+"KERSCHHAGGL Rudolf","+43 4255 20201 5955",
+"Ricoh ARNO",,
+"BRANDST?TTER Hedwig","0043 2622 25551 2728","0043 664 8426672"
+"GENSBICHLER Heinz","0043 2622 25551 2723",
+"REITERER Markus","0043 2622 25551 2720","0043 664 524 83 20"
+"CZECZELI Eszter",,
+"EDENHOFFER Manuel",,
+"TRENYIK Eszter","+3694513690","+36204958386"
+"TOTH Gabor","06204599536",
+"TOTH Alexandra","+36-94 513-9700",
+"TARJANI Gyula","+36 20363 1198",
+"SPITZER Tamas",,
+"PECSI Robert","+36 20 211 70 02",
+"MEGGYES Eva",,
+"LUKACS Reka Eszter","+36-(1)-46371-05",
+"KOLNHOFER Andrea",,
+"KEPPEL Bernadett","+36 20 466 09 62",
+"KALDI Bernadett",,
+"HORVATH Gyulane","+36-94 513-9714","+36 20464 3228"
+"HERTELENDI Szilvia","+36-94 513-9754","+36 20465 9871"
+"GYENGE Zsolt","+36-94 513-9732","+36 20967 3267"
+"DOMA Gizella",,
+"B?ro SZOM 2",,
+"B?ro SZOM 1",,
+"BORSITS Timea","+36-94 513-711",
+"BORCSOK Laszlo",,
+"BOGNAR Zsofia",,
+"ALMASY Katalin","+36 20495 8386","+36 20495 8386"
+"BUDA Edit",,
+"ORAD Scanner 1",,
+"CRISTEA Calin",,
+"Trainee 2",,
+"TURCAS Silviu",,
+"Vozniki",,
+"BABOVIC Aleksandar",,
+"DOVHAN Milan",,
+"LJUBOJA Nikola",,
+"MARKOVIC Nikola",,
+"PAYSAN Okan","+43 (0) 2742 881 813 3139","0664 814 22 12"
+"LUKIC Viktoria","0043 1 98132 1425",
+"PRIKOWITSCH Sophia","+43 (1) 98 132 1422",
+"WASOWSKI Dariusz","+48 881 292 226","0048 881 292 226"
+"ELESZT?S Alena","+421 268 255 104","+421 911 337 747"
+"ORECHOVSKA Alena","+421 268 255 201","+421 903 623 964"
+"PAULICSEKOVA Erika",,"+421 910 11 4619"
+"MIGLES Jozef",,"+421 903 413 957"
+"SIPOSOVA Lucia","+421 2 68 255 201",
+"BONDROVA Maria","00421 2 682 55 201",
+"SEVC?KOV? M?ria",,"+421 903 236 645"
+"PECHARTZ Ronald","+421 2 68 255 202","+421 90 323 66 45"
+"SZABO Robert",,"+421 911 337 747"
+"Expedicia",,
+"Testtiket",,
+"PFEFFER Zuzana","00421 268 255 107",
+"BREZOVSKA Valeria","00421 268 255 105",
+"ZIACIKOVA Ivana","8542","00421 948 075 321"
+"URBANEK Rastislav","8556","00421 948 868 289"
+"CHURA Barbora",,
+"HORINKOVA Daniela","00421 268 255 314",
+"MATEJOVA Gabriela","+4212 68 25 51 11",
+"RIDZONOVA Lenka","8539","00421 903 413 957"
+"MACHAC Michal","+421 268 255 114","+421 903 712 422"
+"MANDUCHOVA Monika","+421 268 255 103","+421 911 337 748"
+"RUTTKAYOVA Sylvia","8546","00421 948 337 308"
+"DEPESOVA Svetlana",,
+"SZVERCSAK Adriana","+40 259 405 205 4109","+40 752 302 708"
+"BUNDALO Rajko","+381 11 785 8948","+381 621982212"
+"MARGINEAN Cosmin",,"0040 752 210 932"
+"SILAGHI Ciprian",,"0040 752 210 205"
+"KNEZEVIC Maja",,"+381 60646 8533"
+"MOISE Roxana","+ 403 1 105 10 08",
+"VALACZKAI Tiberiu",,"0040 752 210 655"
+"ORBAN Zoltan",,"0040 752 102 325"
+"piesexp2",,
+"ZUZIK Peter","+43 6641411891","00421 903 300 587"
+"KRIVOSIC Andrea","+43 (1) 98 132 1511",
+"DEAKOVA Andrea","00421 268 255 212","+421 904 026 782"
+"SCHWARZ Sarah","+43 (1) 98 132 1519","0664 886 487 03"
+"KOLNIK Matus",,
+"BEJENARIU Ciprian","1518","0664 526 18 82"
+"BIRTALAN Camelia",,
+"SMRO ?berleitungen",,
+"MIKLOSOVA Petra","8558","00421 948 879 526"
+"SMRO Lager 1",,
+"KOSIRNIK Samo","+386 1 589 31 35","+386 417 150 98"
+"CIRSTOIU Silviu","+ 403 1 105 10 18",
+"GLODJEVIC Lazar","3815","00381 62233 087"
+"BENCICOVA Dana",,
+"GUDELJEVIC Matea","+385-1-2450-621","00385 912 415 336"
+"DEMETER Raluca","+40 259 405 205 4100","+40 752 243 176"
+"IVANCU Gorun","+ 40 31 105 1011","0040 752 210 313"
+"MILINKOVIC Nedeljka","+381 11 785 8943","+381 62233 078"
+"SIMIONESCU Gabriela","+ 403 1 105 10 05","0040 724 210 939"
+"SMHR CONFERENCE","+385-1-2450-621",
+"STOICA Cristian","+ 40 31 105 1035","0040752210805"
+"PLAIDL Ana",,
+"NICULAE Ana Maria","+ 403 1 105 10 06",
+"OCHETAN Anamaria","+ 40 259 405 205 4108","0040 752 243 048"
+"BERINDEA Alexandra","+40 259 405 205 4120","0040 752 243 014"
+"POP Laura",,
+"ZAVOIANU Cosmin",,
+"CHIOREAN Adrian","+ 403 1 105 10 07","0040 752 210 938"
+"BOROS Yvette",,
+"KOTELES Arthur","+ 40 259 405 205","0040 752 243 184"
+"LUPSE Ramona Carmen","+ 40 259 405 205 4100","0040 752 243 176"
+"CSIZMADIA Andrea",,
+"PAUNET Andrei","+ 403 1 105 10 24","+40 752 243 175"
+"VASILIU Alexandra","+ 40 31 105 1013","0040 752 243 015"
+"BODEA Andrei","+ 40 31 105 1017","0040 752 210 310"
+"KONTREC Lucija","+385-1-2450-621",
+"ROSENTHALER Ines","+43 (0) 2742 881 813","0664 887 245 66"
+"SUCEVEANU Ciprian","+ 403 1 105 10 15","0040 752 210 034"
+"ALEXE Stefania","+ 40 31 105 1008","0040 752 211 038"
+"CONSTANTINESCU Catalin","0040 7580 133 20","0040 7580 133 20"
+"DOCHIAN Roxanan",,"0040 752 302 708"
+"POCORA George",,
+"DINU Alice","+ 40 31 105 1006","0040 752 243 178"
+"STOIAN Ioana",,
+"TILICH Diana","+ 403 1 105 10 09",
+"GEORGESCU Adrian",,"0040 752 210 937"
+"VERESS Szabolcs",,
+"HOSU Ionut Alin",,
+"K?RTI Istvan","+36-(1)-4637 -100","+36 20 947 5030"
+"ANDERLIC Jozica","+386 1 563 71 99","+386 1 563 71 00"
+"BERES Attila Csaba","+40 259 405 205 4104","0040 752 210 828"
+"TANASE Diana",,
+"ERDEI Stefan","+ 40 259 405 205 4119","0040 752 210 865"
+"FARAON Vlad",,
+"BADEA Christina",,
+"MAZGA Theodora","+ 40 31 105 1004","0040 752 210 140"
+"MARCHIS Adriana","+ 40 259 405 205","0040 752 210 245"
+"JUHAI Krisztina","+36-(1)-4637 -100","+36 20 986 3026"
+"BUTARU Costin","+ 403 1 105 10 17","0040 752 210 933"
+"TEAHA Andrei",,
+"DENCIC Jelena","+381 11 785 8942","+381 62233 087"
+"BIRSAN Diana Ramona","+ 40 31 105 1012","0040 752 210 694"
+"Konferenzraum Oradea",,
+"GRCAR Dragica","+386 1 589 31 37","+386 41 626 638"
+"BOT Mihai",,
+"OBR Filip",,
+"VRANCEANU Gina","+ 403 1 105 10 04",
+"COLAC Cristiana",,
+"GAVLIDER Peter","+421(2) 6825 5111","0948101009"
+"DOCHIAN Roxana",,
+"SURINA Stanislav",,
+"BRINZAS Lorand Mihai","+40 259 405 205 4103","0040 752 210 205"
+"IORDAN Roxana","+ 403 1 105 10 09","0040 752 210 178"
+"MOLDOVAN Carmen","+ 40 259 405 205","0040 752 210 655"
+"MIHELJ-TURINA Miroslava","+385-1-2450-621",
+"MOGA Bogdan","+40 259 405 205 4119","+40 752 210 865"
+"PWS Expedit 3 KRAM",,
+"KH Amstetten Portal 1",,
+"SCHI Buendel 4",,
+"SA22 Soilcount",,
+"SCHI Buendel 3",,
+"Expedit 7 KRAM",,
+"Steril PC 16 SAWR",,
+"Expedit 5 SAWR",,
+"Outscan 2 SCHI",,
+"SAWR Lager 1",,
+"SMW Label 1",,
+"PWS Expedit 4 KRAM",,
+"Expedit 1 SMB","0036 1 463 7100",
+"Expedit 3 SMB","0036 1 463 7100",
+"Lager 3 SMB","0036 1 463 7100",
+"inventur","0036 1 463 7100",
+"Expedit 2 SMB","0036 1 463 7100",
+"SMSK Videokonferenz",,
+"PLUCAROVA Marie",,
+"CHEM Videokonferenz",,
+"Finisher SMSK",,
+"GLAWOGGER Bernhard","0043 316 282002 8851","+43 660 118 32 55"
+"JANKOWSKI Lukasz","+43(0) 5238 87000 6421","0664 826 21 19"
+"SCHEKULIN Meggy","+43 (1) 98 132 1424","0664 826 21 61"
+"SATARA Danijel","+43 (1) 98 132 1513","0664 8262200"
+"ZUPANCIC Martina",,
+"Veronika HRIBAR",,
+"Vaga -ci",,
+"Skorda",,
+"PAPEZ Valentina","+386 1 561 07 94","+386 41 715 092"
+"Nina Semeni?",,
+"KOVAIC Andrej",,
+"KAVCIC Srecko","+386 1 589 31 07","+386 516 710 97"
+"GORINSEK Srecko","+386 4 51104 43","+386 51 302 026"
+"GABER Barbara","+386 1 589 31 47","+386 516 839 48"
+"smsl user",,
+"ALFOLDYOVA Skarleta",,
+"FESSEL Lisa","+43 (1) 98 132 1522","0664 834 37 86"
+"SCHUSTER Sebastian","+43(0) 5238 87000 6429","+43 664 88648704"
+"VILJUSIC Filip","+43 2742 883 308 3012","0664 618 84 95"
+"PEC Daria","+43 (1) 732 32","0664 886 487 05"
+"Shire",,
+"BOZKAYA Yenal","+43 (1) 98 132 2723",
+"KUCERAVY Jozef",,
+"AFFENGRUBER Bernhard","01 981 32 1456",
+"ARTL Manuela","0043 1 98132 1409",
+"BACSA Robert",,"0664 1336003"
+"BANFUL Mary","0043 1 98132 1439"," "
+"BISEK Elisabeth","0043 1 98132 1416","0664 814 2216"
+"BRANDST?TTER Gernot","0043 1 98132 1469","0664 5248303"
+"BURGER Susanne","0043 1 98132 1491"," "
+"Ferialpraktikant/in #1 SMW",,
+"Ferialpraktikant/in #2 SMW",,
+"FRATILA Adriana","0043 1 98132 1431",
+"FREY Markus",,
+"HARBICH Cornelia","0664 884 566 70",
+"HEINTZ Gerald","0043 1 98132","0664 5248320"
+"JAHNS Eduard",,
+"KARWATZKE Jana","0043 1 98132 1425",
+"KORNFELD Marko","0043 1 98132 1472","0664 814 22 23"
+"KREMSER Regine","0043 1 98132 1424",
+"KUMMER Tanja","0043 1 98132",
+"LEDERM?LLER Cornelia","0043 1 98132 1449",
+"LOISHANDL Monika","0043 1 98132 1411",
+"MOISL Barbara","0043 1 98132 1492",
+"NIKOLIC Danijela","0043 1 98132 1431",
+"RAUTER Peter","0043 1 73232 137","0043 1 73232 155"
+"RUDOLF Claudia",,"0043664 88456657"
+"RUZSICSKA Ernestine","0043 1 98132 1411",
+"SCH?FER Regina",,
+"SCHALLI Renate","0043 1 98132 1424",
+"SCHAUENSTEIN Sonja","0043 1 98132 1425",
+"SCHLESER Beatrice",,
+"SCHMIDT Matthias",,
+"SLEZAK Helmut","0043 1 98132 1470","0043 664 1448448"
+"SRB",,
+"STADELMANN Marina","0043 1 98132 1491",
+"STECHER Katharina","0043 1 98132 1409",
+"STEINRISSER Irina","0043 1 98132 1449",
+"SUPPAN Daniela","0043 1 98132 1499","+43 664 826 21 15"
+"ZAND Andreas","01981321472","00436648142216"
+"ZEIDAN Jasmin","0043 1 98132 1714","0043 664 618 84 88"
+"ZDRAZIL Stanislav","+420 315 724 221",
+"Expedit 4 INZ",,
+"Expedit 3 INZ",,
+"SIMETZBERGER Katharina",,"0664 886 487 07"
+"Beschwerde Inzing",,
+"HORVATH Daniela","02635 9004 24 108","0664 886 487 10"
+"LECHNER Brigitte","+43 (0) 2622 25551","0664 886 487 09"
+"BERGER Manuela","0043 2635 900 4141 05",
+"BALAZOVA Alena","0043 1 4931331 1610","0043 664 88470554"
+"POSCH Sandra","0043 1 4931331 1614","0043 664 6188478"
+"LANTAJOVA Iveta","00421 268 255 102",
+"HAMMERL Peter","+43 (1) 98 132",
+"AGH Sonja",,
+"BEIER Vanessa",,
+"CHLUBNA Cynthia","0043 1 73232 152",
+"DARVISH Pedram","0043 1 73232 134","0043 664 8262165"
+"Ferialpraktikant/in #1 SA22",,
+"FIBI Anita","0043 1 73232 156","0043 664 8262122"
+"FRANKE Raphaela",,
+"GRATZL Claudia",,
+"HEINREICHSBERGER Claudia",,
+"HEYDE Alexandra","+43 1 73232 0",
+"IFSITS Cornelia",,
+"ILIC Sanela","0043 1 73232 116",
+"JOVANOVIC Irena","0043 1 73232 174",
+"KLINGER Viktoria","0043 1 73232 137",
+"KOBIEDA Eva-Maria",,
+"K?STLBAUER Iris","0043 1 73232 133",
+"LIERNBERGER Doris","0043 1 73232 127","+43 664 826 21 22"
+"PAYER Claudia","0043 1 73232 135",
+"PRAGER Henrietta","+43 (1) 732 32 2224","+43664 887 245 34"
+"SCHUECKER Sophie","0043 1 73232 169",
+"SCHUSTER Claudia","0043 1 73232 141",
+"TOPOROVA Magdalena","8515","00421 903 725 521"
+"GALAZKA Tomasz","+48 22 673 41 91","0048 881 297 729"
+"DOBRZYNSKI Margarete",,
+"FODOR Tibor","+43 (0) 2622 25551",
+"RAFFENST?TTER Daniela","0043 2622 25551 2738",
+"STETKAR Pavel","+420 315 724 221",
+"CORALIC Nervina","+43 (0) 7224 65990 4014",
+"SEC Consult",,
+"SZYSZKA Andreas","+43 (1) 98 132 1525","06646188479"
+"JANOUSEK Roman","+43 (1) 98 132 1506","06646188477"
+"FLIS Magdalena",,"0048 881 292 921"
+"GOJOVA Stanislava","+420 315 724 221",
+"DOMINOVIC Ante","+385-1-2450-621",
+"GROSINIC Maja","+385-1-2450-621",
+"LC ReportUser","+385-1-2450-621",
+"BALINT Zoltan","+36-(1)-4637 -100",
+"BORSOS Laszlo","+36-(1)-4637 -100","0036205554842"
+"BOZSO Gabor","+36-(1)-4637 -100","+36 202335262"
+"BUDAI Gabor","+36-(1)-4637 -100",
+"CSAPO Mercedes","+36-(1)-4637 -100","+36 20563 0892"
+"CSARANKONE TOTH Szilvia","+36-(1)-4637 -100",
+"CSATO Csaba","+36-(1)-4637 -100",
+"CSILLAM Szilvia","+36-(1)-4637 -100",
+"CZINDER Szilvia","+36-(1)-4637 -100",
+"DOMINA Zsolt","+36-(1)-4637 -100","+36 20493 7589"
+"ELO Aniko","+36-(1)-4637 -100",
+"EPER Barbara","+36-(1)-4637 -100",
+"ERDEI Edina","+36-(1)-4637 -100",
+"FABIAN Bela","+36-(1)-4637 -100",
+"FABIAN Katalin","+36-(1)-4637 -100","+36 20 984 6115"
+"FARKAS Istvan","+36-(1)-4637 -100",
+"FEHER Marianna","+36-(1)-4637 -100","+36 20 260 1515"
+"FILO Mariann","+36-(1)-4637 -100","+36 20967 3327"
+"GAL Aniko","+36-(1)-4637 -100","+36 20984 6115"
+"GATAS Anna","+36-(1)-4637 -100","06 20 490 8706"
+"HOLDOSI Julia","+36-(1)-4637 -100","+36 20 916 1680"
+"HOLINSZKI Anett","+36-(1)-4637 -100",
+"JORI Agnes","+36-(1)-4637 -100",
+"KISS Zoltan","+36-(1)-4637 -100",
+"KOVACS-ARADI Andrea","+36-(1)-4637 -100",
+"KURUCZ Rudolf","+36-(1)-4637 -100",
+"MEZO Tunde","+36-(1)-4637 -100",
+"MILO Arpad","+36-(1)-4637 -100",
+"MOHACSI Zsolt","+36-(1)-4637 -100","+36 20 986 1386"
+"RADICS Gergely","+36-(1)-4637 -100","+36 20 287 4475"
+"RADNAI Klara","+36-(1)-4637 -100","+36 (01) 20490- 8706"
+"SCHMIED Attila","+36-(1)-4637 -100",
+"SOLTI Gabriella","+36-(1)-4637 -100",
+"SZABO Gabor","+36-(1)-4637 -100",
+"SZABO Jozsef","+36-(1)-4637 -100","+36 20 466 0962"
+"SZABO Zsuzsa","+36-(1)-4637 -100",
+"SZAKOLCZAI Andrea","+36-(1)-4637 -100",
+"SZANYI Tamas","+36-(1)-4637 -100",
+"SZOBOSZLAI Peter","+36-(1)-4637 -100","+36 20 555 4842"
+"TOTH Krisztian","+36-(1)-4637 -100",
+"URBANEK Katalin","+36-(1)-4637 -100","+36 205 792 662"
+"VAGO Balazs","+36-(1)-4637 -100","+36 30607 2811"
+"VARGA Agota","+36-(1)-4637 -100",
+"VARY Krisztina","+36-(1)-4637 -100",
+"V?R?S Zsolt","+36-(1)-4637 -100",
+"SZANDI Zsofia","+36-94 513-9711","+36 20466 0962"
+"JABLONSKA Jadwiga","0043 1 98132 1526","0664 618 84 29"
+"BRIGADNIK",,
+"ALTINDAS Seher","0043 2742 883308 3013","0664 884 705 57"
+"ANGERER Nicole","0043 2742 883308 3011",
+"HOLZER Anita","0043 2742 883308 3011",
+"PUSCH Martina","0043 2742 883308 3016",
+"VITAN Eliza",,
+"ZEDKA Marlene","0043 2742 883308 3013",
+"MUSTERMANN Max",,
+"Betriebsrat Inzing",,
+"WAGENHOFER Sarina","0664 887 245 94",
+"MESZAROSOVA Klara",,
+"SIEMIONKA Tomasz","+48 881 29 7729",
+"BODY Kristof","1527","0664 884 705 55"
+"ROGIC Dario","0043 664 826 21 22","0043 664 826 21 22"
+"OSLIZLO Bogdan",,
+"GELLERT Molnar","+43 (0) 2742 881 813 3141","0043 664 884 705 53"
+"PATORAJOVA Lucia","00421 268 255 115","00421 904 226 337"
+"ZILOVA RASOVSKA Alena",,
+"LUKNAR Peter","+421 2 68 255 203","+421 911 656 131"
+"AYDOGAN Ayg?l","+43 664 886 487 15",
+"CERNIGOVA Slavomira",,
+"UHROVA Lucie","00420 601 132 952",
+"SZAKALOVA Michaela",,
+"MESIARIKOVA Michaela",,
+"vCenter",,
+"MEHMET Evren",,
+"PELLER Gabor","+36 20927 7788","0036 20927 7788"
+"SAL Technik",,
+"ZOLEDZIEWSKI Robert","+48 881 292 945","881 - 292 - 945"
+"VOLLAND Thomas","+43(0) 5337 62912 6211","0664 525 09 61"
+"GRAMER Stefan","0043 1 98132 1528","0664 886 487 17"
+"MOZDYNIEWICZ Andrzej",,"881 - 292 - 979"
+"KORKMAZ Haydar","+43(0) 5238 87000 6403",
+"SCHEIBLHOFER Rainer","+43 (0) 7224 65990 4020","0664 886 487 12"
+"ZAMPACHOVA Blanka",,
+"GRZELAK Piotr",,"881 - 292 - 977"
+"RENZ Zita",,
+"SVARCOVA Marketa",,
+"BAJUSZ Csaba","+36 1 4637118","0036 20496 4079"
+"KOVACIC Vesna","+43 316 282 002 8826","+43 664 884 705 65"
+"Facturare",,
+"HORVATIC Ivana","+385-1-2450-621","00385 916 194 701"
+"DURIN Tomislav","+385-1-2450-621","00385 912 415 334"
+"SRUK Ivana","+385-1-2450-621",
+"KARLOVIC Goran","+385-1-2450-621","00385 912 415 328"
+"KUMICIC Krunoslav","+385-1-2450-621",
+"DOROTIC Ana","+385-1-2450-621",
+"KUSTER Dijana","+385-1-2450-621","00385 912 415 335"
+"SABLJAK Dejan","+385-1-2450-621","00385 916 194 702"
+"KRESIC Zlatko","+385-1-2450-621",
+"BOSNJAK Igor","+385-1-2450-621",
+"CONSTANTIN Maria",,
+"SIMION Adrian",,
+"inzlag3",,
+"ORAD Lager 1",,
+"CIUREANU Elena Madalina","+ 40 31 105 1023","0040 752 243 449"
+"CSUKA Anamaria","+ 40 259 405 205 4114","0040 752 302 708"
+"Extern Fa Auditor","+421 2 59 203 703",
+"BALOG Botond",,
+"MANCEA Bogdan","+ 40 31 105 1013","0040 752 210 937"
+"W?sche?bernahme 8 SMW",,
+"W?sche?bernahme 7 SMW",,
+"KRIZOVA Erika","+420 315 724 221",
+"SCHI Buendel 5",,
+"SCHI Kamera 1",,
+"W?scheausgang 2 Masser",,
+"Expedit 4 SMS",,
+"PWS Ausgang 03 MATT",,
+"Container?bernahmePWSK",,
+"SCHI Betriebslager",,
+"SCHI Kamera 2",,
+"Kontrollstation SA22",,
+"Expedit 3 SMS",,
+"SCHI Buendel 6",,
+"Expedit 5 SMS",,
+"ORAD Lager 2",,
+"RADOSAVLJEVIC Dragana","+381 116 192 353","00381 60646 8551"
+"HORAKOVA ELSIKOVA Veronika",,
+"SEEBACHER Felicitas",,
+"OLAHOVA Jaroslava",,
+"CHYNAL Wojciech","+43 664 618 84 92",
+"BOCZI Viktoria",,
+"HUBL V?t?slav",,
+"JEDNOROZCOVA Jana",,
+"SUKOVA Monika",,
+"DOLEZALOVA Aneta",,
+"DERFLER Robert","0043 1 98132 1462","0664 524 83 21"
+"MORAVCOVA Zuzana","00421 268 255 301","00421 904 123 838"
+"skladnicismsk",,
+"IVANOVIC Biliana",,
+"STOKELJ Vesna","0038651671285","0038651671285"
+"GROSS Tanja","+43 (0) 7223/85 600 4014",
+"BARTHA Gabor","+36 30548 8874","0036 30548 8874"
+"ZAMOLSKA Liliana",,
+"BANV?LGYI-PAPP Sara","+36 30638 4368","0036 30638 4368"
+"HALIKOVA Lenka",,
+"RAJKOVICS David",,
+"JOZIC Ankica",,
+"JURCA Tibor","+36-(1)-4637 -100","+36 20 233 5262"
+"BENNOUR Claudia","0043 0664 8142222","0043 0664 8142222"
+"sloprodaja",,
+"Arno Kontrolle 1",,
+"munkavedelem","+36-(1)-4637 -100",
+"Trainee 1",,
+"Konferenzraum Bukarest",,
+"W?sche?bernahme SMSK",,
+"smskallg1",,
+"W?scheeingang 4",,
+"W?scheeingang 3",,
+"W?scheeingang 2",,
+"W?scheeingang 1",,
+"W?scheausgang 3",,
+"W?scheausgang 2",,
+"W?scheausgang 1",,
+"Telko User",,
+"Arno FW Expedit 2",,
+"SAZLKOM7",,
+"SAZLKOM8",,
+"SMHRNB10",,
+"SMRO LAGERINVENTUR",,
+"SMSL B?ro",,
+"SMTYEX1",,
+"ZIDAR Andreja",,
+"KONCZ Andrea","0036 20555 4842",
+"MAJETIC Nadica","0664 886 487 40",
+"MESZAROS Tomas",,
+"KOTFASINSKA Patrycja","+48 881 292 921","881 - 292 - 921"
+"smskexp1",,
+"KERSCHBAUMER Magdalena","+43 4255 20201 5912","0664 6188400"
+"Nafise Mohamadbeigi",,
+"BEDNAR Pavel",,
+"SMIDOVA Lada",,
+"BOSCHI Michael","+43 664 826 22 04","0043 664 826 22 04"
+"LINDNER Friedrich","+ 43 664 887 137 64","0043 664 88713764"
+"RIEDMANN Margot",,
+"smskexp13",,
+"GWOZDZIANSKI Sebastian",,"881 - 292 - 927"
+"JERKOVIC Jelena","+385-1-2450-621","00385 912 415 336"
+"KAMENJASEVIC Marija","+385-1-2450-621",
+"TURTURICA Madalina","+ 40 31 105 1023","0040 752 211  083"
+"GEORGE Stanila","+ 40 31 105 1004","0040 752 210 032"
+"Ferialpraktikant",,
+"POMIRLEANU Andreea","+ 40 31 105 1000",
+"MARIN Adrian",,
+"CIUCIU Ioana","+ 40 259 405 205 4114","0040 752 302 708"
+"SCHI Buendel 7",,
+"UHF Portal Hollabrunn",,
+"STERIL Trocken",,
+"Expedit 11 SMHR",,
+"Video Konferenz SMSK",,
+"FAZLIC Sanel",,"+43 664 88648736"
+"PLANK Markus","+43 1 98 132 1486",
+"BESEDOVA Lucia",,
+"KRAMARCZYK Krzysztof",,
+"KOSOVLJANOVIC Marjana",,
+"DRAGOS Ramona",,
+"TEMESI Alexandra",,
+"KOVACIC Roman",,
+"Test User",,
+"smskexp8",,
+"WOLF Samuel","+ 436648262101","00436648262101"
+"KOS Pavel","727917920","704491315"
+"KRIZ Petr","+420 720 051 604",
+"SMETAKOVA Iveta",,
+"TR?SCHER Vanessa",,
+"FARAGOOVA Eva",,
+"PWS Ausgang 5 KRAM",,
+"KEHRER Elisabeth","0043 7224 65990 4018","0664 256 61 20"
+"MAIER Manfred","+ 43 5238 87000 6419","004366488724562"
+"HOFER Norbert Alfred",,
+"PARIPOVIC Nikolino",,
+"KOGUT Dawid",,
+"GIERAT Karolina",,
+"SOLMAN Gordana",,
+"BURES Helga",,
+"HIRSCHL Martina","+43 6601120726",
+"Kontrollstation ARNO",,
+"Job SMSK",,
+"LEMUS Mary",,
+"horeca",,
+"GRITSCH Aileen",,
+"ENNE Michaela","+436642499203",
+"Expedit 2 Shire",,
+"KLASS Jasmin Sandra","+436646188471",
+"MELNICAKOVA Kristina","+43 664/88648739",
+"BRANDHOFER Christian","+43 0 664 814 22 31",
+"Kundenservice",,
+"MEDO Rene","+43 0 664 530 70 42","+436645307042"
+"KIRSCHNER Igor",,
+"PAHONTU Bogdan",,"0040 752 210 635"
+"POPA Valentin",,"0040 752 243 185"
+"Expedit 17",,
+"Expedit 7 SMHR",,
+"Expedit 6 SMHR",,
+"FALTER Sabine",,
+"DZANIC Sanel",,
+"PAJSZCZYK Agnieszka","+48 660 784 790",
+"PLUCAROVA Auditor",,
+"LIBAL Patrik",,
+"SAILER Susanne",,
+"GA?NER Karin","+43 2262 9004 21451",
+"PODRZAJ Gregor",,
+"HOLY Josef","00436648343792",
+"DOHR Martin","+43 664 884 705 97",
+"KOLLER Lisa",,
+"COCHNAROVA Petra",,
+"JAGIELSKA Ewelina",,
+"JANCAR Jan",,
+"Zakladanie ZAKLADANIE",,
+"KRALJ Christine","+385-1-2450-621",
+"SEWERYN Natalia",,
+"GNIDA Maria",,"+48881297729"
+"SZABO Tamas","+43 0 664 814 22 34",
+"Borislava STEFANOWA",,
+"Pavla PREVAZNAKOVA",,
+"TABARAS Irina",,
+"CIOROIANU Razvan",,
+"DORNER Ingrid",,
+"BALLA Cristina",,
+"MADALINA Serban",,
+"IONESCU Marcel",,
+"BALAZS Eniko",,
+"Masser",,
+"W?sche?bernahme Cont ARNO",,
+"TSA Domain Join SAL",,
+"Easy Competence LA",,
+"KNEISSL Mara","1454",
+"Emir SALIHOVIC",,
+"MAKRAI Timea","+36 1 463 7119","0036 205972662"
+"G?RG?L? Yasin","+43 (0) 2622 25551 2722","0660 8578929"
+"ROSU Teodora",,
+"Expedit 18 SMHR",,
+"EPPICH Rafaela","+43 1 98 132 1486",
+"HOPFINGER Andreas","0043 316 282002 58","+43 664 545 73 20"
+"KOLLER Elisabeth","0043 316 282002 8841","+43664 826 2182"
+"MURAUER Clemens","0043 316 282002 58","0043 664 5457320"
+"CRISTEA Andrada",,
+"HOFER Rudolf","+43 7672 92 762 272",
+"ADAMOVIC Dejan","+43 (0) 6246 73985 5026",
+"DAVID Libor",,
+"BELANSKY Pavel",,
+"salinventura",,
+"WEI?ENBERGER Doris","+43 0 664 6188471",
+"KOVACS Verena",,
+"SMW Expedit6",,
+"HANUDEL Matus",,
+"PACALA Dominik","+43 1 98 132 1516",
+"PUCHNER Wolfgang","+43 7672 92762 0","+43 664 88 49 3868"
+"PERILAGER5",,
+"NEUHOLD Arthur","01 98132 1454",
+"TICHY Martin",,
+"SA14 Besprechungszimmer 1.OG","+43 1 98132 1430",
+"HUSZTI Reka","+36 1 4637 3655",
+"MULLEROVA Karla",,
+"NOVOTNA Magdalena",,
+"SMHRNB09",,
+"KOEHLER Carolin",,
+"LYSEK Magdalena",,
+"Milos KALINIC","+381 116 192 353",
+"SA14 Besprechungszimmer 2.OG gro?","+43 1 98132 1504",
+"SA14 Besprechungszimmer 2.OG klein","+43 1 98132 1505",
+"SA14 Besprechungszimmer 3.OG","+43 1 98132 1514",
+"LEFKA Orsolya",,
+"SMHRP2",,
+"SMHRP1",,
+"CZENKI Reka","+36-(1)-4637 -100",
+"JAMRIK Rebeka","+36 1 463 7179","0036 20537 4629"
+"svcctxbkp",,
+"svc_antivirus",,
+"ctxtest",,
+"MOSAWI Edris",,
+"WALTNER Michael",,
+"KOETTL Hans",,
+"HERZOG Andreas",,
+"SCHOEN Nicole",,
+"SCHANNER Hubert",,
+"PETRAREANU Bela",,
+"KALTENBRUNNER Johannes",,
+"THOMIS Karel",,
+"KONFRSTOVA Monika",,
+"VANEK Michal",,
+"WEGHOFER Peter",,
+"HORVATHOVA Aniko",,
+"MILOSEVIC Daniela","3811","+381 60646 8533"
+"CIOCAN Genica","+ 403 1 105 10 28",
+"Expedit1",,
+"HOLZMANN Monika",,
+"MESZAROS Marion","+ 43 0 664 618 84 78",
+"NEBENF?HR Sandra",,"+43 660 139 1291"
+"PERILAGER4",,
+"Lager SMPL3",,
+"MAHRLE Agnes","01 98132 1524","0043 660 1391 290"
+"NINIC Dragan","+43 0 2622 25551 2725",
+"REISINGER Harald","+43 0 7224 65990 4023",
+"SHARIATI Jawid","+43 0 2622 25551 2728",
+"BOGDAN Babalau",,
+"GABKA Krzysztof",,
+"MUCHA Marzena",,
+"PETROVIC Suzana",,
+"IT Anfragen",,
+"PORIZKOVA Miroslava",,
+"Expedit 3 SMHR",,
+"SZCZESNA Malgorzata",,
+"STOJKOVIC Ivana",,
+"TOTH Izabella",,
+"MOGOS Antim",,
+"Expedit 2 CHEM",,
+"W?sche?bernahme 1 CHEM",,
+"Expedit 1 CHEM",,
+"Expedit 3 CHEM",,
+"SMTYEX2",,
+"NIMMERFALL Nicolai","0043 5337 62912 6229","0043 664 5248319"
+"BERGER Roswitha","0043 5337 62912 6210",
+"MAYERHOFER Sylvia",,
+"HOF-MEURS Monique",,
+"ABAI Gabor",,
+"BOGDANOVIC Slavisa","0043 5337 62912 6200",
+"ACHLEITNER Brigitte","0043 5337 62912 6209","0043 664 1320881"
+"FILZER Katharina","0043 5337 62912","0043 664 6188471"
+"M?CK Zwetana","0043 5337 62912 6226","0043 664 8142213"
+"BANCIU Adrian",,
+"Expedit 3 SMP",,
+"Lager 3 SMP",,
+"SMP Kontrollstation2",,
+"SMP Kontrollstation1",,
+"Expedit 1 SMP",,
+"SMP W?sche?bernahme",,
+"Lager 1 SMP",,
+"Lager 2 SMP",,
+"PC Inventura",,
+"Expedit 2 SMP",,
+"SMP W?sche?bernahme 1",,
+"PAVLOVIC Dusan",,
+"Expedit 1 SMRS",,
+"Expedit 2 SMRS",,
+"Expedit 3 SMRS",,
+"GRAZ Soilcount1",,
+"GRAZsoilcount",,
+"KANDELSDORFER Johann","+43 1 71728 172","+43 664 535 50 53"
+"FILIP Claudia Andreea",,
+"SUCIU Anca",,
+"Expedit 7 SMW",,
+"SA14 Container?bernahme",,
+"SML Container?bernahme",,
+"ORAD Gast Expedit 1",,
+"ORAD Job Expedit 2",,
+"ORAD Job Expedit 1",,
+"ORAD Gast Expedit 2",,
+"ORAD W?sche?bernahme 1",,
+"Expedit 15 SMSL",,
+"Expedit 9 SMHR",,
+"LC Upravitelj","+385-1-2450-621",
+"Expedit 2 SMHR",,
+"Expedit 1 SMHR",,
+"Expedit 20",,
+"Expedit 16 SMHR",,
+"LC SQLUser","+385-1-2450-621",
+"Expedit 4 SMHR",,
+"SMSLEXP8",,
+"LC JBoss User","+385-1-2450-621",
+"Expedit 12",,
+"Expedit 5 SMHR",,
+"Expedit 8 SMHR",,
+"Expedit 19",,
+"Expedit 13 SMSL",,
+"Expedit 14 SMSL",,
+"Expedit 10 SMHR",,
+"Expedit 4 SMB","0036 1 463 7100",
+"Expedit 5 SMB","0036 1 463 7100",
+"ARNAU Marius",,
+"SMRO W?sche?bernahme 1",,
+"SMRO Lager 2",,
+"SMRO W?sche?bernahme 2",,
+"Crowne Plaza SMRO",,
+"SMRO Job Expedit 1",,
+"PERILAGER03",,
+"PeriVideo",,
+"PERIINFO",,
+"PAVLE Kotnik",,
+"PERILAGER3",,
+"W?scheeingang 1",,
+"Expedit 1",,
+"Skladisce",,
+"PERILAGER2",,
+"perieinaus1",,
+"W?scheausgang 1",,
+"SAWR Container?bernahme",,
+"SCHI Container?bernahme",,
+"UHF Portal Korneuburg",,
+"SA22 Container?bernahme",,
+"Steril PC 17 SAWR",,
+"UHF Portal Stockerau",,
+"MATT Container?bernahme",,
+"STERIL Trocken 2",,
+"Izhod01",,
+"Vhod01",,
+"izhod03",,
+"smskexp2",,
+"KARLIKOVA Patricia",,
+"smskexp5",,
+"smskexp4",,
+"SKARBOVA Katarina","+421 268 255 109","+421 911 337 745"
+"smskexp9",,
+"smskexp10",,
+"smskexp3",,
+"smskexp12",,
+"smskexp7",,
+"smskexp11",,
+"smskexp6",,
+"Lager SMPL2",,
+"JACOB Steve",,
+"FREITAG Martin",,
+"HAHN Thomas",,
+"KAUP Michael",,
+"VARDAI Marc-David",,
+"ARNDT Christine","+43 7223 81881 339",
+"SCHNAITTER Christa","+43 463 31723 372",
+"SIEBERER Martina","+43 7672 913 274",
+"FECKTER Brigitte","+43 732 246 434 116",
+"AUER Sandra","+43 7223 81881 339",
+"AICHHORN Eva-Maria","+43 732 246 434 118",
+"ROHRAUER Manuela","+43 732 246 434 115",
+"LINDERT Simone","+43 7672 913 275",
+"WINTERSTEIGER Gabriele","+43 732 246 434 163",
+"SA14 Videokonferenz",,
+"ftpuser",,
+"BALDAUF Christian",,
+"vpn1",,
+"BENYO Ildiko","+36 1 463 7128","0036 20543 4636"
+"STERIL Trocken 3",,
+"HAJDU Attila","01 98132 1534","0660 139 1273"
+"HLAVATA Anezka","+43 1 98 132 1532",
+"BAOTIC Ivan",,
+"PANAINTE Andreea-Oana",,
+"NEMES Bence","+36 20496 3276","0036 20496 3276"
+"SOKAL Monika","+43 664 / 8849 3717",
+"FUCZKO Alexa",,
+"ROB Carmen",,
+"SVAROVSKY Vratislav",,
+"VOLAROVICS Judit","+36 1 463 7132","0036 20287 4475"
+"GLOIM?LLER Leopoldine",,
+"STICKLER Sonja",,"+4366488724593"
+"TROST Gabriela",,
+"?kolen?",,
+"MRNAVKOVA Monika",,
+"IVANCSICS Bernhard","+43 1 98 132 1125","+43 660 1391291"
+"BEYER Petra","+43 1 98132 1471",
+"CENDROWICZ Adam",,
+"KANERT Adrian","+48 509 338 506",
+"PATORA Marcin",,
+"ZAKRZEWSKI Rafal",,
+"SA22 Besprechungszimmer 1.OG klein","+43 1 732 32 2244",
+"SA22 Besprechungszimmer 1.OG gro?","+43 1 732 32 2283",
+"SORKO Eduard","+ 43 316 2820028849","+43 664 8262217"
+"SAWR Reparatur 1",,
+"KAPLAN Mamir","+43 1 98 132 1125",
+"SCHUSTER Erika",,
+"MUJKANOVIC Selma","+ 43 0 5238 87000 6405",
+"Job Expedit 5 KRAM",,
+"VELICKY Wolfgang","0043 664 118 38 79",
+"W?sche?bernahme 2 CHEM",,
+"BOSTROEM Matilda",,
+"Expedit 4 SMRS",,
+"TURA Cristian",,
+"STANCIU Oana",,
+"COSTA Mihai",,
+"Expedit 8 KRAM",,
+"IANCHIS Florin",,
+"TANC Adrian",,
+"BADIA Madalina",,
+"ALECU Luminita",,
+"ENE Adina",,
+"SMW Kontrolle 7",,
+"KH Hochegg",,
+"STERIL Legeraum 2",,
+"STERIL Legeraum 9",,
+"STERIL Legeraum 4",,
+"STERIL Legeraum 5",,
+"STERIL Legeraum 8",,
+"SAWR Buendel 2",,
+"Expedit STER",,
+"STERIL Legeraum 6",,
+"STERIL Legeraum 7",,
+"W?sche?bernahme  4 SAWR",,
+"KH Neunkirchen",,
+"STERIL Legeraum 10",,
+"STERIL Legeraum 3",,
+"steril Admin",,
+"STERIL Legeraum 11",,
+"Lager UHF1",,
+"Arno FW Expedit 1",,
+"ARNO Soilcount 1",,
+"INZ Soilcount",,
+"WALENTA Meta","+43 664 884 56 666",
+"SAWR Besprechungszimmer 1.OG","+43 2622 25 551-0",
+"SMLL Besprechungszimmer EG","+43 2742 88 33 08",
+"SCHI Besprechungszimmer 1.OG","+43 2742 88 18 13",
+"ARNO Besprechungszimmer 1.OG","+43 2742 88 18 13",
+"KRAM Besprechungszimmer gro? 1.OG","+43 5337 62 912",
+"KRAM Besprechungszimmer klein 1.OG","+43 5337 62 912",
+"INZ Besprechungszimmer 1.OG","+43 5238 87 000",
+"SMS Besprechungszimmer 1.OG","+43 6246 73 985",
+"LEOG Besprechungszimmer 1.OG","+43 6583 85 05-0",
+"GRAZ Besprechungszimmer 1.OG","+43 316 28 20 02-0",
+"SMB Besprechungszimmer EG","0036 1 463 7195",
+"SMB Besprechungszimmer 2.OG","0036 1 463 7262",
+"SMB Besprechungszimmer 3.OG","0036 1 463 7184",
+"SZOM Besprechungszimmer EG","+36 94 513-690",
+"AUER Andreas","+43 664 8849 3815",
+"BRUNNER Stefan","+43 664 8284 573",
+"J?GER Lorenz","+43 664 8426 752",
+"REINHART Alexander","+43 664 8426 755",
+"RAITH Stefan","+43 664 8426 799",
+"THALER Barbara","+43 732 246 434 188",
+"WALLAS Alexander","+43 664 8426 773",
+"THALLER Stefan","+43 664 8426 765","+43 664 8426765"
+"KOBELA Juraj",,
+"TITE Crina",,"0664 887 245 93"
+"ASTLEITHNER Manuel","+ 43 1 98 132 1427",
+"NAGY Gabriella","+36-(1)-4637 3629",
+"VASILE Georgica",,
+"KUTKOVA Maria",,
+"KANIS Michal",,
+"Office Archiv 1140",,
+"Iphone",,
+"SCHAUNIG Christian",,
+"MICHALAK Dominik","+48 881 292 932",
+"HOLLERNE MATYAS Judit","+36 1 463 7157","0036 30186 6346"
+"LISKOVA Petra","+420 3872 40 495",
+"ROTARU Efimia","00420 720 072 180",
+"CRINA Tite",,
+"SIAKELOVA Zuzana",,
+"KOPKA Karol",,
+"SOYUBELLI Ahmet Aydin","+436601068071",
+"HANSEN Michael","+43 1 98 132 1533","+43 660 132 74 90"
+"GLOGOWSKA Marzena","+48 510 942 414",
+"SharePoint",,
+"HALLER Wolfgang",,
+"GRADZKA Agnieszka","+48 881 292 654",
+"ANSORG Filiz","+49 821 400 2174",
+"SENDOR Radoslaw","+48 510 939 790",
+"DUSICKOVA Gabriela","+ 421 268 255 314",
+"MSOL_0c410b7f4895",,
+"Marta Filipov?",,
+"JARZAB Pawel","+48 881 292 921",
+"JELENOVA Jana",,
+"svcctxrep",,
+"svcsql",,
+"BRABEC Ondrej","+420 734 448 277",
+"KOUTKOVA Oldriska","+420 3872 40 495",
+"SLOSAROVA Zdenka","+420 776 568 260",
+"BARTOS Vit","+420 727 917 920",
+"SVOBODOVA Karolina",,
+"WUERSTLOVA Radka","+420 3872 40 495",
+"CZInfo",,
+"ANGERER Reinhard","+43 664 / 8849 3801",
+"N?herei 2 Graz",,
+"N?herei 3 Graz",,
+"MACHARIK Claudia",,
+"RICHTER-PHELIPPEAU Valerie",,
+"SEVER Dejan",,
+"STECHER Herwig",,
+"AUTO Parc",,
+"GHIULEA Niculina",,
+"SZALAY Zsolt",,
+"REITERER Sandra","+43 2742 881 813 3115","0664 884 705 90"
+"K?MPER Noel","+43 664 887 24 588",
+"WOJTASIK Justyna",,
+"MERKEL Irene","+49 821 400 2174",
+"KRIPNEROVA Ivana",,
+"NAGY Alexa","+36 20537 4629","0036 20537 4629"
+"JASTRZEMBSKA Anna","+48 881 292 098","+48881292977"
+"test user010",,
+"KEREKGYARTO Zoltan","+36 30576 4156","0036 30576 4156"
+"LEO Ursula","+43 664 6188451",
+"WLAN",,
+"KLOCKE Michaela","+43 0 6601341859",
+"VODICA Michaela","+43 0 664 884 705 71",
+"ORAD Besprechungszimmer EG"," + 40 259 405 205",
+"LDAP",,
+"SABAU Sergiu",,
+"TSATSM",,
+"COMAN Ana-Maria","+40 368 006 001","+40 721 921 442"
+"SAZL KOM 10",,
+"ORAD Scanner 2",,
+"M?LLER Barbara",,
+"TRAMPUS Urska",,
+"ALTUN Lutfiye",,
+"MALAKOVA Katarina",,
+"TOMSU Marek","00420 724 172 175",
+"BAGLAYAN Song?l",,
+"SAZL KOM 11",,
+"EDELSBRUNNER Paul",,"+43 660 186 32 17"
+"SA GRAZ X3",,
+"STUBENDEK Jana",,
+"OBERRANZMEIER Julia","+43 664 8284 573",
+"MEHMED Robert",,
+"SAZL KOM 9",,
+"SMPREP1",,
+"Labelstation 1",,
+"MAJEWSKA Aleksandra",,
+"FISCHER Sabrina",,
+"Ottobrunn Produktion2",,
+"NIKOLICS Livia","+36 1 463 7172","0036 20927 7788"
+"OSWALD Manfred","+43 1 732 32 2274","06601155632"
+"CIT-CZ-FW-Einlesen01",,
+"MORAR Anmaria",,
+"BOCKOVA Klaudia",,
+"KOMOROWSKI Jacek","+48 881 292 927","+48881292927"
+"MAKOWSKI Tomasz","+48 509 338 500",
+"SQL Express",,
+"EXPEDICE",,
+"CZRein1",,
+"SSE",,
+"4pot",,
+"PRIJEM",,
+"Expedit 2 INZ",,
+"Ottobrunn Produktion1",,
+"CIT-CZ-FW-VPE01",,
+"Bewerber",,
+"CIT-CZ-FW-Einlesen02",,
+"LEHMANN Sven",,
+"DAWOD Arabzad",,
+"GRSIC Aden",,
+"KAJKUT Dario",,
+"EHXMINE Raci",,
+"STERIL Legeraum 12",,
+"STERIL Legeraum 13",,
+"BULJAN Ante","+43 1 98 132 1483","+43 660 139 18 12"
+"dcs",,
+"Jira_Backup",,
+"CZLager1",,
+"GALSync",,
+"CIT-CZ-FW-Exp01",,
+"PETRIKOVA Anna",,
+"W?sche?bernahme  1 INZ",,
+"MANFREDA Rok",,
+"SEP",,
+"STERIL Legeraum 14",,
+"STERIL Legeraum 15",,
+"STERIL Legeraum 16",,
+"HYHLIKOVA Krist?na",,
+"WARNECKE Martin",,
+"MAKULJEVIC Bojana",,
+"CHROMY Petr",,
+"W?sche?bernahme  3 Graz",,
+"SA14 Besprechungszimmer 1.OG Aquarium","+43 1 98132 1430",
+"MILENKOVIC-CEBOVIC Lidija",,
+"POPESCU Elisabeta","+43 0 6601391825",
+"MSOL_52e58d28b30d",,
+"sccm-admin",,
+"sccm-sql",,
+"sccm-na",,
+"sccm-clientpush",,
+"WINTER J?rgen (Domain Admin|Base-IT)",,
+"HOLZER Thomas (Domain Admin|Base-IT)",,
+"GRAZ-MFS",,
+"Lager 4 SMB","0036 1 463 7100",
+"Lager 5 SMB","0036 1 463 7100",
+"KLEIN Rudolf","+43 1 98 132 1537","+43 664 828 45 50"
+"KOVACS Helga","+36 20 495 83 86",
+"ADMIN QlikView",,
+"SAVIN Ioana",,
+"HOLLNSTEINER Monika","+43 664 / 8426 788",
+"BLAGOJEVIC Predrag","+43 1 98 132 1539","+43 660 139 18 14"
+"SLOVACKOVA Monika",,
+"KASPAR Tomas","00420 602 206 292",
+"ZENATY Mario",,
+"TALOVICOVA Simona",,
+"KOHOUT Jiri",,
+"Ottobrunn Produktion3",,
+"MEKYNA Andreas",,
+"FRATILA Vasile","+43 0 6601391819",
+"GOLLOB Anita",,
+"EMERICH Christian","+43 0 2622 25551 2769",
+"GENSER Roswitha",,
+"OTTOBRUNN Lager1",,
+"smsktest smsktest",,
+"ENGL Eduard",,
+"K?RZINGER Alexander",,
+"TOPALOVIC Danijel",,
+"BOTTESI Markus",,"00436601788163"
+"KALLAYOVA Linda",,
+"OSVALD Melita",,
+"DANKO Ivan",,
+"Job Expedit 6 KRAM",,
+"GRIMM Edina Marie Christin",,
+"VELJKOVIC Vesna","+ 43 0 6601830989",
+"CAMARCA Benjamin",,
+"ANTOS Tanja",,
+"RODIC Andreja",,
+"NEMETHOVA Andrea",,
+"PHILIPP Ramona",,
+"BARTA Aurelian","+40 752 302 708",
+"KLEINE SCHULTE Anja","+43 5238 87000 6401",
+"CHOVANCOVA Barbora",,
+"F?L?P Eszter","0036 1 463 7131","0036 20579 8194"
+"PRAVDOVA Andrea","00420 724 176 913",
+"SOCHACI Kamila",,
+"ABELOVSZKY Judit",,
+"Karin FOKENTHALER","+43 1 98 132 1427",
+"YAVUZ Seng?l",,
+"EBNER Franz","+43 0 2742 881 813 3114",
+"SMERINGOVA Claudia",,
+"ARIFI Kenad",,
+"Salesianer Miettex CZ",,
+"MEETING ROOM Orad",,
+"SCHAL Christian","+43 732 246 434 137","+43 664 8849 3729"
+"FEJZA Bekim","+43 732 / 246 434 139","+43 664 8849 3803"
+"Technik Linz","+43 732 246 434 123",
+"Caretex Office Linz","+43 732 246 434 149",
+"THORBAUER Karl","+43 664 8849 3814",
+"BEGIC Ibrahim","+43 732 / 246 434 132",
+"HOLZINGER Alexandra",,
+"Nurfet MUZAFEROVIZ",,
+"SA14 Besprechungszimmer EG Projektraum","+43 1 98132 1430",
+"SLOBODOVA Bozena",,
+"Amstetten LPH",,
+"Rabbs Thaya LPH",,
+"Waidhofen Ybbs LPH",,
+"Bad V?slau LPH",,
+"Waidhof LPH",,
+"Ybbs Donau LPH",,
+"Himberg LPH",,
+"Mauer LPH",,
+"StPeter Au LPH",,
+"Pottendorf LPH",,
+"V?sendorf LPH",,
+"Wallsee LPH",,
+"Arakis Administrator",,
+"SIEDLECKA Emilia","+48 881 292 977",
+"ZYSK Jaroslaw",,
+"GRANNER Andreas",,
+"VIDMAR Maya",,
+"Zentraleinkauf ZENTAL. Allgemein",,
+"FRANCK Iris","+43 6432 / 6612 0",
+"MAJEWSKA Agata",,
+"Brief TAUBE",,
+"Brief TAUBE2",,
+"LEWANDOWSKI Witold","+48 881 292 921",
+"WEIDEMANNS Susanne","+43 664 / 8849 3726",
+"KERTAI Edina","+43 664 88493720",
+"SP?RR Angelika","+43 6432 / 6612 0",
+"SANTO Drazen","+43 664 / 8849 3722",
+"SCHLEIFER Frank","+43 664 / 8849 3725",
+"GASTEIN",,
+"PUPIKOVA Adela",,
+"Rechnungseingang.BHG",,
+"MATTHEY Denis","00420 702 235 563",
+"TROTSIUK Oksana",,
+"HINTERLEITNER Monika","+43 664 / 8849 3816",
+"BL?M Petra","+43 664 / 8284 552",
+"MAYR Rosemaria","+43 57255 21345",
+"KINCSES Boglarka","+36 1 4637 133",
+"Versorgung Augsburg",,
+"Project Muenchen 2",,
+"Project Muenchen 1",,
+"HUDECKOVA Hana",,
+"UNATINSZKI Jaroslav",,
+"MAJTCZAK Katarzyna",,
+"BEKIC Josip",,
+"RESCH?TZEGGER Werner","+43 (0) 1 / 91060 - 11830","+43 (0)664 / 88 49 38 02"
+"LOEPER Tamara","+43 1 / 910 601 1830",
+"Besprechungsraum MAN",,
+"Besprechungsraum Bad Hofgastein",,
+"Emin Celilov",,
+"Schichtleiter KRAM",,
+"TRIVYZAS Nikolaos",,
+"STERIL Legeraum 17",,
+"WIECZOREK Aleksandra",,
+"PENDL Reinhold","+43 1 98 132 1544",
+"NEUMANN Michael","+43 664 / 8849 3861",
+"GEYERLECHNER Hanna","+43 664 / 8849 3860",
+"Online MIGRATION",,
+"NAGY Rita",,
+"QM-Kalender",,
+"SAL Testuser",,
+"DYGANT Bartlomiej",,
+"SZLACHCIC Lukasz",,
+"Invoice",,
+"CASALI Mario",,
+"SCHIEBER Claudia",,
+"GRAF Claudia",,
+"HANSCHITZ Thomas","+43 0 6601853370",
+"LAZIC Sanja","+43 660 2526799",
+"Claudia Grillenberger",,
+"faktury@salesianer.sk",,
+"udrzbasmsk",,
+"Antonio Rojas Sandoval",,
+"MILITARU Elena",,
+"CHIRIAC Christina",,
+"PEK Kristina",,
+"ZENKER Manuela","+43 0 664 88724594",
+"AGANOVIC Semir","+43 664 / 8849 3789",
+"ALIJAGIC Senada","+43 463 31 723 387",
+"BILALOVIC Sadija","+43 643 / 31723 366",
+"Fahrer",,
+"HOTI Erblina","+43 (0)463 31 723 378",
+"KOGLER Christian","+43 664 / 8849 3716",
+"LIPPITZ Marlene",,
+"MEKANOVIC Eldisa","+43 463 / 31723 369",
+"NEUWIRTH Renate","+43 59393 43640",
+"RAMPITSCH Martina","+43 463 / 31723 383",
+"SABANOVIC Husejn","+ 43 664 / 8849 3740",
+"SCHAFFLER Bettina","+43 463 / 31723 376",
+"SCHLESINGER Inge","+43 463 / 31723 300",
+"SCHWAIGER Alexander","+43 664 / 8849 3713",
+"SCHNAITTER Christa","+43 463 / 31723 372",
+"SCHWARZ Eva Maria","+43 463 / 31723 373",
+"STRASSNIG Elke","+43 463 / 31723 370",
+"Technik Klagenfurt","+43 463 / 31723 388",
+"TELSNIG Manuela","+43 463 / 31723 308",
+"TIRIC Nihad","+43 664 8849 3712",
+"TRAKOSEVIC Eldina","+43 463 / 31723 313","+43 664 8831 8689"
+"ZECHNER Desiree","+43 (0)463 / 31723 - 377",
+"Mietw?sche",,
+"KL_Steri",,
+"KNEZEVIC Biljana","+43 463 / 31723 394",
+"Besprechungsraum1 Gro?",,
+"Kalender.Klagenfurt",,
+"KL-Expedit01",,
+"kl_mangel01",,
+"KL_W?scheeingang",,
+"KL-MBKLager-Eee","+43 463 / 31723 378",
+"MEGLIC Mirjana","+43 0 664 887 245 22",
+"Rechnungseingang.KLU",,
+"Besprechungsraum gro?",,
+"LANG Elisabeth","+43 664 / 8849 3866",
+"Invoices CZ",,
+"SALESIANER Office",,
+"KITKOVA Hana",,
+"Office Wozabal",,
+"MELICHAR Jiri",,
+"RATH Daniela","+43 7223 / 81881 186",
+"Besprechungsraum GF Enns",,
+"Besprechungsraum Logistikhalle",,
+"W?sche?bernahme 4 ARNO",,
+"Friedl Arno","+43 664 / 8284 555",
+"Smidt David","+43 664 / 8849 3753",
+"BART Wolfgang","+43 664 / 8426 759",
+"FELSCH Manuela","+43 664 / 450 8462",
+"KAIBLINGER Rainer","+43 664 508 2240",
+"KOGLER G?nther","+43 664 / 8849 3771",
+"bka.support@wozabal.com",,
+"Rechnungseingang",,
+"Rechnungseingang.ENNS",,
+"Rechnungseingang.LINZ",,
+"RYSAVA Romana",,
+"BAUER Silvia","+43 660 139 1548",
+"SIMON Nicolas",,
+"Abdic Alexandra",,
+"Billinger Beate","+43 7672 / 92762 282",
+"Bornbaum Christina","+43 7672 / 913 3838",
+"Cavalic Edina","+43 7672 / 913 240",
+"Dautovic Nermina","+43 664 / 8849 3826",
+"Dizdarevic Elvedina","+43 7672 / 913 2494",
+"Ecker Peter","+43 664 / 8284 569",
+"Eder Manuel","+43 7672 / 913 2478",
+"Frauscher Nadine",,
+"Fuhrpark TL Lenzing",,
+"Gasperlmair Alexander","+43 664 8831 8388",
+"Habibovic Amila",,
+"Hittenberger Elisabeth","+43 664 / 8284 560",
+"Hofer Rudolf","+43 664 / 8426 776",
+"Hollnsteiner Manfred","+43 664 / 8284 564",
+"Kaltenb?ck Elke","+43 664 / 8849 3845",
+"Kisch Karin","+43 7672 / 913 369",
+"Knezevic Jelena","+43 7672 / 92762 284",
+"K?nig Ewald","+43 664 8831 8865",
+"Kosovrasti Merita","+43 664 1919 806",
+"Kracher Sandra","+43 664 421 94 18",
+"Leinberger Julia","+43 (0)7672 913 2503",
+"Liedl Gerold","+43 664 8849 3827",
+"Lindert Simone","+43 7672 / 913 275",
+"Madlmair Claudia","+43 664 / 8849 3818",
+"Maksimovic Michele","+43 7672 / 913 2652",
+"Mayr Manuela",,
+"Mayr Sandra","+43 664 / 8426 782",
+"Mehmedagic Melina","+43 7672 / 92762 272",
+"Milinkovic Gordana",,

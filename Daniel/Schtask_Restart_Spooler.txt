@@ -1,0 +1,9 @@
+\\svatmattfp1\C$\Scripts
+
+Restart Spooler
+Restart Spooler and Dependencies
+Daily At 04:00 every day Enabled
+C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+-Noninteractive -Windowstyle Hidden -command ".'C:\Scripts\Restart_Spooler_and_Dependencies.ps1'"
+
+schtasks /change /TN "\Restart Spooler" /RU sal.co.at\tasks_services$ /RP

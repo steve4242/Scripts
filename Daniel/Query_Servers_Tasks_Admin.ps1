@@ -1,0 +1,1 @@
+schtasks.exe /query /s svatsmwdc1 /V /FO CSV | ConvertFrom-Csv | Where-Object {$_."Als Benutzer ausführen" -eq "sal\Administrator"} | select Hostname,Aufgabenname,"Status der geplanten Aufgabe","Als Benutzer ausführen"

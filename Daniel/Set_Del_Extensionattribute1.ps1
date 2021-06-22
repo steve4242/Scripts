@@ -1,0 +1,2 @@
+Get-ADUser -Filter * -Property Enabled -SearchBase "OU=Buero,OU=Benutzer,OU=MATT,OU=AT,DC=sal,DC=co,DC=at" | Where-Object {$_.Enabled -like “false”} | set-aduser -Clear "extensionAttribute1","extensionAttribute2"
+Get-ADUser -Filter * -Property Enabled -SearchBase "OU=Buero,OU=Benutzer,OU=MATT,OU=AT,DC=sal,DC=co,DC=at" | Where-Object {$_.Enabled -like “true”} | set-aduser -Replace @{extensionAttribute1='MATT';extensionAttribute2='AT'}

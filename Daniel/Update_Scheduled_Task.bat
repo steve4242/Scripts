@@ -1,0 +1,1 @@
+schtasks /change /TN "\Restart Spooler" /RU sal.co.at\tasks_services$ /RP

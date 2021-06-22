@@ -1,0 +1,1 @@
+Get-MobileDevice -ResultSize unlimited | Get-MobiledeviceStatistics | where {$_.LastSyncAttemptTime -gt (get-date).adddays(-45)} | Select-Object DeviceType, DeviceModel, DeviceImei, DeviceOS, DeviceID, Identity, DeviceFriendlyname, LastSuccessSync | Export-Csv -Path "C:\Users\schoda\Documents\ActiveSync_aktive_Geraete.csv"

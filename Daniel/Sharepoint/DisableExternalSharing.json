@@ -1,0 +1,18 @@
+	
+	
+	
+	{
+  "$schema": "schema.json",
+  "actions": [
+   
+	
+	{
+	  "verb": "setSiteExternalSharingCapability",
+	  "capability": "Disabled"
+	}
+	
+	
+  ],
+  "bindata": { },
+  "version": 1
+}
